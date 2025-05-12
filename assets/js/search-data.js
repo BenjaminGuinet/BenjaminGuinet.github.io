@@ -516,13 +516,6 @@ ninja.data = [{
           window.open("https://github.com/BenjaminGuinet", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
-        },
-      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
@@ -530,18 +523,11 @@ ninja.data = [{
           window.open("https://orcid.org/0000-0002-9922-2118", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
         id: 'social-scholar',
         title: 'Google Scholar',
         section: 'Socials',
         handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
+          window.open("https://scholar.google.com/citations?user=WRhFaLEAAAAJ&hl", "_blank");
         },
       },{
       id: 'light-theme',
