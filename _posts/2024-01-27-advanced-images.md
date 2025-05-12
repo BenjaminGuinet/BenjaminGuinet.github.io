@@ -11,10 +11,9 @@ images:
   slider: true
 ---
 
-
 ## Introduction
 
-Watching a wildlife documentary or simply taking a walk in the woods, you're bound to have come across an animal with extravagant characteristics. So extravagant, in fact, that you might well wonder whether it doesn't go against natural selection. Take, for example, a peacock's bulky tail, a fighter's huge sails or a deer's impressive antlers. They're beautiful ornaments, yes, but they're also very awkward to move around on and highly visible to predators!  The question then arises: how can such features be selected when they seem to have a negative impact on the survival of the individuals that wear them?
+Watching a wildlife documentary or simply taking a walk in the woods, you're bound to have come across an animal with extravagant characteristics. So extravagant, in fact, that you might well wonder whether it doesn't go against natural selection. Take, for example, a peacock's bulky tail, a fighting fish huge fins or a deer's impressive antlers. They're beautiful ornaments, yes, but they're also very awkward to move around on and highly visible to predators!  The question then arises: how can such features be selected when they seem to have a negative impact on the survival of the individuals that wear them?
 
 The answer lies in a concept that I'm about to introduce to you: sexual selection. In the rest of this article, we'll look at why, in the vast majority of species, females choose males and how they choose them.
 
