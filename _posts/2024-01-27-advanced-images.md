@@ -204,3 +204,50 @@ So we need to remain cautious about the observations we make about the world aro
 ## **Back to the article**
 
 In this article we have just seen a few examples that I have chosen, but in reality there are as many differences as there are species. I haven't even mentioned species that don't reproduce sexually or those in which the sex changes over the course of an individual's life (but that's only part of the story)! Personally, I'm still fascinated by all the singularities that surround us, especially as sexuality in general shapes and occupies a key place in evolutionary processes: the passing on of genes!
+
+
+**References**
+
+1- Darwin, C., 1875. The Descent of Man, and Selection in relation to Sex. Nature, 11(277)
+
+2- T, A., 2021. R78 : Pourquoi des sexes différents, et pourquoi deux le plus souvent? par T. Giraud et S. Billiard - sfecologie.org.
+
+3- Albo, M. and Peretti, A., 2015. Worthless and Nutritive Nuptial Gifts: Mating Duration, Sperm Stored and Potential Female Decisions in Spiders. PLOS ONE, 10(6)
+
+4- Gwynne, D., 2008. Sexual Conflict over Nuptial Gifts in Insects. Annual Review of Entomology, 53(1)
+
+5- Andrade, M., 1998. Female hunger can explain variation in cannibalistic behavior despite male sacrifice in redback spiders. Behavioral Ecology, 9(1)
+
+6- Toft, S. and Albo, M., 2016. The shield effect: nuptial gifts protect males against pre-copulatory sexual cannibalism. Biology Letters, 12(5)
+
+7- Cecie Starr and Ralph Taggart, Biology – the Unity and Diversity of Life, 6th Ed., Wadsworth Publishing Company, 1992
+
+8- Edward T. Hall, The Hidden Dimension, New York, Anchor Books, 1966
+
+9- Córdoba-Aguilar, A., Uhía, E. and Rivera, A., 2003. Sperm competition in Odonata (Insecta): the evolution of female sperm storage and rivals' sperm displacement. Journal of Zoology, 261(4)
+
+10- Gangrade, G., 1964. Accessory glands of female phasmid, Necroscia sparaxes Westwood. Annals and Magazine of Natural History, 7(84)
+
+11- Helinski, M., et al., 2012. Duration and dose-dependency of female sexual receptivity responses to seminal fluid proteins in Aedes albopictus and Ae. aegypti mosquitoes. Journal of Insect Physiology, 58(10)
+
+12- Parker, G., 1970. Sperm competition and its evolutionary consequences in the insects. Biological Reviews, 45(4)
+
+13- van Noordwijk, A. and de Jong, G., 1986. Acquisition and Allocation of Resources: Their Influence on Variation in Life History Tactics. The American Naturalist, 128(1)
+
+14 - Ghislandi, P., et al., 2017. Silk wrapping of nuptial gifts aids cheating behaviour in male spiders. Behavioral Ecology, 28(3)
+
+15 – Morton Catherine Heidrich Virginia., 2013. PhD thesis. Who's Your Daddy? A Study of Extra-Pair Copulation and Mating Behaviors of Protonotaria citrea Behaviors of Protonotaria citrea.
+
+16 - Sinervo, B. and Lively, C., 1996. The rock–paper–scissors game and the evolution of alternative male strategies. Nature, 380(6571)
+
+17- Puts, D., 2021. Human sexual selection. 20015. Current Opinion in Psychology.
+
+18- Scott, I., et al., 2014. Human preferences for sexually dimorphic faces may be evolutionarily novel. PNAS, 111(40)
+
+19- Wheatley, J.,et al., 2014. Women’s faces and voices are cues to reproductive potential in industrial and forager societies. Evolution and Human Behavior, 35(4)
+
+20- Collins, S. and Missing, C., 2003. Vocal and visual attractiveness are related in women. Animal Behaviour, 65(5)
+
+21- Singh, D., et al., 2010. Cross-cultural consensus for waist–hip ratio and women's attractiveness. Evolution and Human Behavior, 31(3)
+
+22- Giraldeau, L., Cézilly, F. and Danchin, E., 2005. Écologie comportementale. Paris: Dunod.
