@@ -443,13 +443,11 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-have-been-awarded-a-postdoctoral-fellowships-marie-skłodowska-curie-actions-sparkles-smile-project-abstract-rinderpest-virus-rpv-was-historically-one-of-the-most-devastating-pathogens-affecting-cattle-with-a-global-impact-unmatched-by-any-other-livestock-disease-although-largely-eradicated-in-europe-by-the-late-19th-century-rpv-continued-causing-catastrophic-outbreaks-in-africa-and-asia-leading-to-severe-economic-and-agricultural-consequences-the-introduction-of-a-vaccine-in-the-1960s-marked-a-turning-point-ultimately-leading-to-the-official-eradication-of-rpv-in-2011-a-landmark-achievement-in-veterinary-and-human-medicine-however-the-effects-of-vaccination-on-the-evolutionary-dynamics-of-rpv-remain-unexplored-my-msca-proposal-aims-to-investigate-how-vaccination-efforts-influenced-the-evolution-of-rpv-i-hypothesize-that-widespread-vaccine-use-exerted-selective-pressures-on-the-virus-leading-to-genetic-bottlenecks-and-reduced-genomic-diversity-over-time-and-across-regions-i-also-suspect-that-the-staggered-rollout-of-vaccination-programs-worldwide-resulted-in-the-emergence-of-distinct-regional-rpv-lineages-to-test-these-hypotheses-i-will-analyze-historical-rpv-samples-expanding-the-genetic-dataset-by-sequencing-45-additional-genomes-from-european-samples-collected-before-vaccination-this-will-be-complemented-by-analyzing-existing-sequences-from-asia-and-africa-i-will-develop-innovative-phylodynamic-models-to-account-for-time-dependent-evolutionary-rates-and-lineage-dynamics-providing-a-comprehensive-view-of-the-virus-s-evolutionary-response-to-vaccination-combining-my-track-record-on-virus-host-interactions-and-paleogenetics-and-the-host-s-extensive-expertise-on-virus-phylodynamics-this-fellowship-will-allow-me-to-obtain-the-key-scientific-and-transferrable-skills-to-establish-myself-as-a-research-leader-in-the-field-and-make-substantial-contributions-to-the-field-of-viral-evolution",
+          title: 'I have been awarded a Postdoctoral Fellowships - Marie Skłodowska-Curie Actions ! :sparkles:...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-i-have-been-awarded-a-alfried-krupp-junior-fellowship-for-the-year-2025-26-sparkles-smile",
+          title: 'I have been awarded a Alfried Krupp Junior fellowship for the year 2025/26...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
