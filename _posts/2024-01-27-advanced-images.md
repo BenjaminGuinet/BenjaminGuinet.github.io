@@ -11,7 +11,7 @@ images:
   slider: true
 ---
 
-## Introduction
+## **Introduction**
 
 Watching a wildlife documentary or simply taking a walk in the woods, you're bound to have come across an animal with extravagant characteristics. So extravagant, in fact, that you might well wonder whether it doesn't go against natural selection. Take, for example, a peacock's bulky tail, the enormous fins of a fighting fish or a deer's impressive antlers. They're beautiful ornaments, yes, but they're also very awkward to move around on and highly visible to predators!  The question then arises: how can such features be selected when they seem to have a negative impact on the survival of the individuals that wear them?
 
@@ -19,7 +19,8 @@ The answer lies in a concept that I'm about to introduce to you: sexual selectio
 
 We will then look at other non-human animals to understand some of the strategies that have been selected over the course of evolution to persuade females to mate. We'll see that there are cheats in the animal world and that sometimes strength and beauty are no match for some clever little buggers!
 
-## Sexual selection, a story about sex
+
+## **Sexual selection, a story about sex**
 
 What we remember from the concept of natural selection developed by Darwin and Wallace (more details in our article on this subject) is that individuals with the most adaptive characteristics survive better, reproduce better and are therefore selected from generation to generation. However, if you're an observer of nature, you should be able to spot an inconsistency in all these stories... In fact, if you look closely at the animal world, you'll see that males and females sometimes have different phenotypes. Males are often more colourful or have flashy ornaments. Females generally have more discreet attributes. In terms of the theory of natural selection, it seems counter-intuitive that individuals should be selected when they are sporting multicoloured coats that make them more visible to predators and make them look very cluttered.
 
@@ -38,7 +39,8 @@ Both knew that natural selection could not be expected to favour the evolution o
 
 *Sexual selection is a theory according to which the evolution of certain remarkable physical traits such as pronounced colouring, increased size or striking ornamentation in animals can make it easier for those who possess them to obtain mates.*
 
-## An explanation for the war of the sexes: anisogamy
+
+## **An explanation for the war of the sexes: anisogamy**
 
 But why is it that, in the majority of cases, it's the males who end up with the extra ornaments! 
 
@@ -60,7 +62,7 @@ Au fil de l’évolution, cette guerre des sexes a mis les mâles en compétitio
 **NB** : it is interesting to ask how anisogamy emerged. But also why there are differentiated sexes. One of the answers lies in the fact that it prevents self-fertilisation. If you're interested, read this article in French on the subject.
 
 
-## The Cornelian choice of females, between direct and indirect benefits
+## **The Cornelian choice of females, between direct and indirect benefits**
 
 The males' objectives are clear. They need females to ensure that they have offspring, and they are competing to get them. What do the females gain and why choose one criterion over another?
 
@@ -68,7 +70,8 @@ In some cases it's quite clear. If we take the example of a female gorilla given
 
 The choice of females is based on two main categories of criteria: **direct** and **indirect** advantages. 
 
-## Sexual selection - Direct advantages
+
+## **Sexual selection - Direct advantages**
 
 A direct advantage will be immediately identifiable by the female and will instantly increase her fertility or lifespan. For example, females can obtain: better access to food, protection from harassing males or help in raising their offspring, or avoid being infected by parasites (or other diseases) by choosing healthy males.
 
@@ -80,7 +83,8 @@ Direct benefits can be of various kinds. Some species offer nuptial gifts, which
     </div>
 </div>
 
-## Sexual selection - Indirect advantages
+
+## **Sexual selection - Indirect advantages**
 
 Another direct and seemingly obvious advantage is choosing a sexual partner who will help raise the young for some species. Females will choose a good father to help them build a nest and feed the young. These behaviours are observed in many bird species, but also in mice.
 
@@ -121,7 +125,8 @@ According to this **handicap theory**, males with extravagant traits that are ev
 
 All these mechanisms are based on the supposed existence of genes conferring greater vigour (“good genes” hypothesis), revealed by external handicaps and therefore only able to be developed by individuals of very high individual quality. However, evidence that females select for good genes remains scarce despite decades of studies on mate choice in many organisms. This apparent lack of consensus continues to create debate about the importance of the good gene model in the field of evolutionary biology.
 
-## What strategies do males use?
+
+## **What strategies do males use?**
 
 ### Pre-copulatory behaviour
 
@@ -133,7 +138,7 @@ Most of the time, when we think of sexual selection, we think of confrontations 
     </div>
 </div>
 
-## Sperm competition, sexual selection in detail
+## **Sperm competition, sexual selection in detail**
 
 Females sometimes choose not to put all their eggs in one basket. In these species, they often mate with different males to maximise their chances of having healthy offspring. In this situation, the competition between males takes place at sperm level and is called sperm competition.
 
@@ -165,7 +170,8 @@ In order to prolong the copulation period, some males will not let go of the fem
     </div>
 </div>
 
-## The animal world is full of cheats!
+
+## **The animal world is full of cheats!**
 
 So far we've seen that secondary sexual characteristics (for example, the peacock's tail) were honest indicators of the underlying quality of the males.  The costs associated with producing and maintaining these extravagant features informed the females about the overall health of the males that wore them. The more physically fit a male is, the more access he has to quality energy resources. And the more he is able to waste them strutting around the forest with a very long tail. Some males have seen this as an opportunity to optimise their energy allocation by reducing certain costs associated with secondary sexual traits without damaging their overall reproductive success. This is where cheating comes in! 
 
@@ -186,7 +192,7 @@ Finally, many females choose males who will give up all their time to help with 
 </div>
 
 
-## A final word
+## **A final word**
 
 Historically, the field of sexual selection is still very young. Indeed, research in this field only began in the 1960s [22]. So it's not surprising that the concept of sexual selection remains little known, even though the general public is already familiar with natural selection.
 
@@ -194,6 +200,7 @@ Science is not neutral. Scientists are caught up in an axiological matrix from w
 
 So we need to remain cautious about the observations we make about the world around us. Although we can have very serious studies on the subject, the fact remains that our perception of things is subjective, especially in a world as complex as ours. The idea of a common value is difficult to maintain. So now, more than ever, we need to share the knowledge and viewpoints of a diversity of researchers on a research topic, because that's how we can minimise our personal interpretations. 
 
-## Back to the article
+
+## **Back to the article**
 
 In this article we have just seen a few examples that I have chosen, but in reality there are as many differences as there are species. I haven't even mentioned species that don't reproduce sexually or those in which the sex changes over the course of an individual's life (but that's only part of the story)! Personally, I'm still fascinated by all the singularities that surround us, especially as sexuality in general shapes and occupies a key place in evolutionary processes: the passing on of genes!
