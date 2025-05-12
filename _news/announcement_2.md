@@ -1,33 +1,22 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
-inline: false
+date: 2025-02-01 
+inline: true
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I have been awarded a Postdoctoral Fellowships - Marie Skłodowska-Curie Actions ! :sparkles: :smile:
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
+#### Project abstract
 
-#### Hipster list
+Rinderpest virus (RPV) was historically one of the most devastating pathogens affecting cattle, with a global impact unmatched by any other livestock disease. Although largely eradicated in Europe by the late 19th century, RPV continued causing catastrophic outbreaks in Africa and Asia, leading to severe economic and agricultural consequences. The introduction of a vaccine in the 1960s marked a turning point, ultimately leading to the official eradication of RPV in 2011, a landmark achievement in veterinary and human
+medicine. However, the effects of vaccination on the evolutionary dynamics of RPV remain unexplored.
 
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
+My MSCA proposal aims to investigate how vaccination efforts influenced the evolution of RPV. I hypothesize that widespread vaccine use exerted selective pressures on the virus, leading to genetic bottlenecks and reduced genomic diversity over time and across regions. I also suspect that the staggered rollout of vaccination programs worldwide resulted in the emergence of distinct regional RPV lineages.
 
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
+To test these hypotheses, I will analyze historical RPV samples, expanding the genetic dataset by sequencing 45 additional genomes from European samples collected before vaccination. This will be complemented by analyzing existing sequences from Asia and Africa. I will develop innovative phylodynamic models to account for time-dependent evolutionary rates and lineage dynamics, providing a comprehensive view of the virus’s evolutionary response to vaccination.
 
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+Combining my track record on virus-host interactions and paleogenetics, and the host’s extensive expertise on virus
+phylodynamics, this fellowship will allow me to obtain the key scientific and transferrable skills to establish myself as a research leader in the field and make substantial contributions to the field of viral evolution.
