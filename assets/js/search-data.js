@@ -72,15 +72,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-sexual-selection-from-sexy-dancing-to-cheating-anything-goes",
         
-          title: "",
+          title: "Sexual selection, from sexy dancing to cheating, anything goes!",
         
-        description: "",
+        description: "Popular scientific paper",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2024-01-27-advanced-images/";
+            window.location.href = "/blog/2025/advanced-images/";
           
         },
       },{id: "post-a-post-with-plotly-js",
