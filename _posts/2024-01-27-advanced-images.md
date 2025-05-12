@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sexual selection, from sexy dancing to cheating: anything goes!
-date: 2024-01-27 11:46:00
+date: 2025-05-12 
 description: Popular scientific paper
 tags: Sexual selection
 categories: sample-posts
