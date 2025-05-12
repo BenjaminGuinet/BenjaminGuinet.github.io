@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sexual selection, from sexy dancing to cheating: anything goes!
+title: Sexual selection, from sexy dancing to cheating, anything goes!
 date: 2025-05-12 
 description: Popular scientific paper
 tags: Sexual selection
