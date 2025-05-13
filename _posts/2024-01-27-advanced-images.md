@@ -5,7 +5,7 @@ date: 2025-05-12
 description: Popular scientific paper
 tags: Sexual selection
 categories: sample-posts
-thumbnail: assets/img/pexels-victoria-bowers-10487861.jpg
+thumbnail: assets/img/Selection_sexuelle_animo.jpg
 images:
   compare: true
   slider: true
