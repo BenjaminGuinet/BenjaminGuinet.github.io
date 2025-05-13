@@ -76,6 +76,11 @@ A direct advantage will be immediately identifiable by the female and will insta
 
 Direct benefits can be of various kinds. Some species offer nuptial gifts, which are usually food. This behaviour is found in a wide variety of organisms such as birds, insects and spiders. Sometimes there is a positive correlation between the size of the gift and the copulation time allowed by the female. For example, if the male provides the female with a large prey item, he will be able to transfer more spermatozoa [3,4]. In other species, such as the Red-backed Black Widow, males offer themselves as a **nuptial gift** by allowing themselves to be eaten [5].
 
+Another direct and seemingly obvious advantage is choosing a sexual partner who will help raise the young for some species. Females will choose a good father to help them build a nest and feed the young. These behaviours are observed in many bird species, but also in mice.
+
+A final example can be found in bullfrogs. Females will prefer males with the ‘best’ territory. The eggs will thus be protected from predators during their development.
+Sexual selection - Indirect advantages
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/4_BAS_avantages.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
@@ -84,11 +89,6 @@ Direct benefits can be of various kinds. Some species offer nuptial gifts, which
 
 
 ## **Sexual selection - Indirect advantages**
-
-Another direct and seemingly obvious advantage is choosing a sexual partner who will help raise the young for some species. Females will choose a good father to help them build a nest and feed the young. These behaviours are observed in many bird species, but also in mice.
-
-A final example can be found in bullfrogs. Females will prefer males with the ‘best’ territory. The eggs will thus be protected from predators during their development.
-Sexual selection - Indirect advantages
 
 An indirect advantage is less obvious to the female and can be interpreted as a gamble.  The female will have to detect whether a male is a good partner on the basis of clues that are more or less clear (to our human eyes). If she wins her bet, the female will produce healthy offspring who will in turn be able to produce numerous offspring, indirectly increasing the female's reproductive success.
 
