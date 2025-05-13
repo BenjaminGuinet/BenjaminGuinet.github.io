@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-sexual-selection-from-sexy-dancing-to-cheating-anything-goes",
+            },{id: "post-tales-lull-our-childhood-and-trace-our-history",
+        
+          title: "Tales lull our childhood and trace our history",
+        
+        description: "Popular scientific paper",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Pop-science-Tales-tel-our-history/";
+          
+        },
+      },{id: "post-sexual-selection-from-sexy-dancing-to-cheating-anything-goes",
         
           title: "Sexual selection, from sexy dancing to cheating, anything goes!",
         
@@ -81,17 +92,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/Pop-science-Sexual_selection/";
-          
-        },
-      },{id: "post-a-post-with-plotly-js",
-        
-          title: "a post with plotly.js",
-        
-        description: "this is what included plotly.js code could look like",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/plotly/";
           
         },
       },{id: "post-a-post-with-image-galleries",
