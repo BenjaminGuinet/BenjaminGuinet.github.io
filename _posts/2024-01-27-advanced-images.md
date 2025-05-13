@@ -4,7 +4,7 @@ title: Sexual selection, from sexy dancing to cheating, anything goes!
 date: 2025-05-12 
 description: Popular scientific paper
 tags: Sexual selection
-categories: sample-posts
+categories: pop-science
 thumbnail: assets/img/Selection_sexuelle_animo.jpg
 images:
   compare: true
