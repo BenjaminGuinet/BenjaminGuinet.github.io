@@ -80,7 +80,7 @@ ninja.data = [{
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/advanced-images/";
+            window.location.href = "/blog/2025/Pop-science-Sexual_selection/";
           
         },
       },{id: "post-a-post-with-plotly-js",
