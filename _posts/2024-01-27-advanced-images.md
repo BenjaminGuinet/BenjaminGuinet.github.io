@@ -57,10 +57,9 @@ The main idea behind this theory is that males produce more and cheaper gametes.
     </div>
 </div>
 
-Au fil de l’évolution, cette guerre des sexes a mis les mâles en compétition entre eux pour accéder à une quantité de gamètes femelles limitée et ainsi s’accaparer la paternité tant espérée.
+Over the course of evolution, this war of the sexes has put males in competition with each other for access to a limited quantity of female gametes, and thus to the much-hoped-for paternity.
 
-**NB** : it is interesting to ask how anisogamy emerged. But also why there are differentiated sexes. One of the answers lies in the fact that it prevents self-fertilisation. If you're interested, read this article in French on the subject.
-
+**NB** : it is interesting to ask how anisogamy emerged. But also why there are differentiated sexes. One of the answers lies in the fact that it prevents self-fertilisation. If you're interested, read [this article](https://sfecologie.org/regard/r78-fev-2018-giraud-billiard-evolution-anisogamie/) on the subject.
 
 ## **The Cornelian choice of females, between direct and indirect benefits**
 
