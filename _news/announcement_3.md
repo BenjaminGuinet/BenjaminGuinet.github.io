@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have been awarded a Alfried Krupp Junior fellowship for the year 2025/26 ! :sparkles: :smile:
+I have been awarded a Alfried Krupp Junior fellowship for the year 2025/26 ! :sparkles: 

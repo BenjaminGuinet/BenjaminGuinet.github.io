@@ -5,7 +5,7 @@ inline: true
 related_posts: false
 ---
 
-I have been awarded a Postdoctoral Fellowships - Marie Skłodowska-Curie Actions ! :sparkles: :smile:
+I have been awarded a Postdoctoral Fellowships - Marie Skłodowska-Curie Actions ! :sparkles: 
 
 ---
 
