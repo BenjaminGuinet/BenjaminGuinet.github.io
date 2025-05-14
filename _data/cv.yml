@@ -6,7 +6,7 @@
     - name: Date of Birth
       value: 6th December 1995
     - name: Languages
-      value: English, French
+      value: English, French, test
 
 - title: Education
   type: time_table
