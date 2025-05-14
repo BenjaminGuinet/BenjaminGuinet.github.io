@@ -11,62 +11,43 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University Claude Bernard Lyon1, Lyon, France
-      year: 2023
+    - title: PhD in Evolutionary Genomics
+      institution: Department of COEVOL Multi-Scale Coevolution (LBBE), University Claude Bernard Lyon1 (UCBL1), France
+      year: 01/10/2019 – 21/03/2023
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Supervisor: Dr Julien Varaldi.
+        - Thesis: "Global study of viral domestication in parasitoid wasps".
+        - Funded by doctoral scholarship from the French Ministry of Sciences.
+        - Winner of the PhD thesis award in fundamental virology science (Bruxelles - 2024).
+
+    - title: MSc in Biology (Ecology, Evolution, Genomics)
+      institution: University Claude Bernard Lyon1 (UCBL1), France
+      year: 2017 – 2019
+
+    - title: Erasmus Exchange (1st semester, 3rd year Bachelor)
+      institution: University of Tromsø, Norway
+      year: 2017
+
+    - title: BSc in Biology (Science and Biodiversity)
+      institution: University Claude Bernard Lyon1 (UCBL1), France
+      year: 2014 – 2017
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Postdoctoral Researcher
+      institution: Centre for Palaeogenetics & Natural History Museum, Stockholm, Sweden
+      year: 14/09/2023 – present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Supervised by Dr Tom van der Valk.
+        - Main research: using ancient DNA from 4,000 to one million years old specimens to understand past microbial interactions in ancient extinct megafauna (e.g., mammoths).
 
 - title: Open Source Projects
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://github.com/CpgSthlm/aDNA_Damage">al-folio</a>
+      year: 2024-now
+      description: The tools here aim to improve the accuracy of downstream analyses by addressing artefactual C->T and G->A transitions commonly observed in ancient samples.
 
 - title: Honors and Awards
   type: time_table
@@ -78,19 +59,7 @@
       items:
         - Travel fellowship to assist in the French Virology day in 2024
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Hiking, Bouldering, Running, Trail, Popularizing science, Escape rooms.
