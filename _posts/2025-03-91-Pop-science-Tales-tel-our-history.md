@@ -174,15 +174,15 @@ Throughout the ages, the ways in which stories are told have changed. At the daw
 4. Julien d'Huy et Jean-Loïc Le Quellec., 2004. « Comment reconstruire la préhistoire des mythes ? Applications d’outils phylogénétiques à une tradition orale »
 5. Korotayev, D, Khaltourina., 2011. Myths and Genes: a Deep Historical Reconstruction. Moscow: Librokom/URSS (ISBN 978–5–397–01175–4)
 6. Thuillard, M., Le Quellec, J., d’Huy, J. and Berezkin, Y., 2018. A Large-Scale Dtudy of World. Trames. Journal of the Humanities and Social Sciences, 22(4), p.407.
-    Darwin, C. R. & A. R. Wallace., 1858. Proceedings of the meeting of the Linnean Society held on July 1st, 1858. Journal of the Proceedings of the Linnean Society. Zoology 3: liv-lvi.
-7. Lévi-Strauss Claude., 1971. Mythologique4. L’Homme nu. Paris, Plon, 681p.
-8. Perrault C.,1697. Histoires ou Contes du temps passe´. Hood’’. Speculum 67: 549–575
-9. Frazer JG., 1889. A South African Red Riding-Hood. The Folk-Lore Journal 7:
-10. Ikeda H., 1971. A Type and Motif Index of Japanese Folk Literature. Helsinki: FF Communications
-11. Jamshid J. Tehrani., 2013. The Phylogeny of Little Red Riding Hood, PLOS ONE, vol. 8, n°11: e78871.
-12. Patrice Lajoye, Julien d'Huy and Jean-Loïc Le Quellec., 2013. reply to tethrani ; http://nouvellemythologiecomparee.hautetfort.com  
-13. Ziolkowski JM., 1992. A fairy tale from before fairy tales: Egbert of Liege’s ‘‘De puella a lupellis seruata’’ and the medieval background of ‘‘Little Red Riding
-14. Da Silva, S. and Tehrani, J., 2016. Comparative phylogenetic analyses uncover the ancient roots of Indo-European folktales. Royal Society Open Science, 3(1), p.150645.
-15. Bond, J.D., 2019. Paleodrainage map of Beringia. Yukon Geological Survey, 
-16. Geggel, L., 2019. Humans Crossed The Bering Land Bridge To People The Americas. Here’S What It Looked Like 18,000 Years Ago.. [online] livescience.com.
+7. Darwin, C. R. & A. R. Wallace., 1858. Proceedings of the meeting of the Linnean Society held on July 1st, 1858. Journal of the Proceedings of the Linnean Society. Zoology 3: liv-lvi.
+8. Lévi-Strauss Claude., 1971. Mythologique4. L’Homme nu. Paris, Plon, 681p.
+9. Perrault C.,1697. Histoires ou Contes du temps passe´. Hood’’. Speculum 67: 549–575
+10. Frazer JG., 1889. A South African Red Riding-Hood. The Folk-Lore Journal 7:
+11. Ikeda H., 1971. A Type and Motif Index of Japanese Folk Literature. Helsinki: FF Communications
+12. Jamshid J. Tehrani., 2013. The Phylogeny of Little Red Riding Hood, PLOS ONE, vol. 8, n°11: e78871.
+13. Patrice Lajoye, Julien d'Huy and Jean-Loïc Le Quellec., 2013. reply to tethrani ; http://nouvellemythologiecomparee.hautetfort.com  
+14. Ziolkowski JM., 1992. A fairy tale from before fairy tales: Egbert of Liege’s ‘‘De puella a lupellis seruata’’ and the medieval background of ‘‘Little Red Riding
+15. Da Silva, S. and Tehrani, J., 2016. Comparative phylogenetic analyses uncover the ancient roots of Indo-European folktales. Royal Society Open Science, 3(1), p.150645.
+16. Bond, J.D., 2019. Paleodrainage map of Beringia. Yukon Geological Survey, 
+17. Geggel, L., 2019. Humans Crossed The Bering Land Bridge To People The Americas. Here’S What It Looked Like 18,000 Years Ago.. [online] livescience.com.
 
