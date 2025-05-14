@@ -108,50 +108,43 @@
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
   ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
+ "Selected presentations": [
+  {
+    "name": "A comprehensive investigation of Woolly mammoth remains associated with microbes",
+    "date": "2024",
+    "issuer": "Hologenomics Conference, Copenhagen, Denmark",
+    "url": "",
+    "icon": "fa-solid fa-microbe"
+  },
+  {
+    "name": "A comprehensive investigation of Woolly mammoth remains associated with microbes",
+    "date": "2024",
+    "issuer": "Society for Molecular Biology and Evolution Conference (SMBE), Puerto Vallarta, Mexico",
+    "url": "",
+    "icon": "fa-solid fa-dna"
+  },
+  {
+    "name": "Exploring the parasitoid diversity for virus domestication",
+    "date": "2022",
+    "issuer": "Society for Evolutionary Biology (ESEB), Prague, Czech Republic",
+    "url": "",
+    "icon": "fa-solid fa-virus"
+  },
+  {
+    "name": "Timing of a viral domestication event in a clade of parasitic wasps",
+    "date": "2022",
+    "issuer": "Congress of the International Society of Symbiosis (ISS)/Holobiont, Lyon, France",
+    "url": "",
+    "icon": "fa-solid fa-clock"
+  },
+  {
+    "name": "Endogenization of dsDNA viruses as a widespread source of adaptation in endoparasitoid species",
+    "date": "2021",
+    "issuer": "Environmental and Agronomical Genomics Symposium, Tours, France",
+    "url": "",
+    "icon": "fa-solid fa-dna"
+  }
+],
   "publications": [
     {
       "name": "Zur Elektrody/namik bewegter Körper",
@@ -177,22 +170,24 @@
   ],
   "skills": [
     {
-      "name": "Physics",
+      "name": "Biology",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Workflow (Nextflow/Snakemake)",
+        "Bioinformatics",
+        "Basic wet lab",
+        "Evolution",
+        "Virology",
+        "Ancient DNA",
+        "Phylogeny",
+        "Metagenomics"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Frensh",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -204,38 +199,16 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Hobbies",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Bouldering",
+        "Boardgames",
+        "Escape rooms",
+        "Running/Trail",
+        "Popularizing science",
+        "Hiking"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
     }
   ]
 }
