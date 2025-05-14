@@ -7,6 +7,10 @@ nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
 
-Organize your courses by years, topics, or universities, however you like!
+
+- **2019-2023   Teaching Assistant (192 hours total)**, Department of Biometry, Lyon1 University.
+  - Courses:
+    - General Genetics (first year bachelor program)
+    - Population Genetics
+    - Biostatistics and Bioinformatics (second year bachelor program)
