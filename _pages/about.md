@@ -30,6 +30,5 @@ latest_posts:
 
 With an MSc in Evolutionary Biology and Ecology, a PhD in Evolutionary Genomics and a first postdoctoral experience in paleometagenomics, I specialize in studying the `interactions` between microbes and their hosts through an interdisciplinary `eco-evolutionary` lens. Over six years of research, I have contributed to various projects addressing genomic and evolutionary issues, resulting in significant publications and expertise in diverse biological models ranging from tiny parasitic wasps to giant woolly mammoths. During these years, I have worked on a wide range of scales, from `current biological interactions` involving symbiotic viruses,`Late Pleistocene` mammal remains, to the study of `endogenous viral elements` dating back several million years. 
 
-In addition to my research skills, I am passionate about sharing knowledge through `teaching`. I also participated for several years as an animator and scientific writter for the [Projet Pangolin](https://www.projetpangolin.com/) association.
 
-My goal for the future is to become a full-time researcher at a university, where I can investigate and develop my own scientific questions which are unrevealing `past viral-host interactions`.
+
