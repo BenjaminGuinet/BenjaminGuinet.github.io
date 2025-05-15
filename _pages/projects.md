@@ -2,7 +2,7 @@
 layout: page
 title: Subject of study
 permalink: /projects/
-description: The collection of my previous and angoing projects.
+description: The collection of my previous, angoing and futur projects.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
