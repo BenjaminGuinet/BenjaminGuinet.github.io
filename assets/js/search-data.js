@@ -130,8 +130,8 @@ ninja.data = [{
           description: "This project explores how reference genome divergence and read depth impact the interpretation of DNA damage patterns in ancient DNA (aDNA)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-a-global-approach-on-viral-domestication-among-parasitoid-wasps",
-          title: 'A global approach on viral domestication among parasitoid wasps',
+            },},{id: "projects-viral-domestications-in-parasitoid-wasps",
+          title: 'Viral domestications in parasitoid wasps',
           description: "In this project we assessed how endoparasitoid lifestyle promotes endogenization and domestication of dsDNA viruses",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
