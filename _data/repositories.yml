@@ -1,14 +1,15 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - BenjaminGuinet 
+
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - BenjaminGuinet/BLAST_CPG_workshop
+  - BenjaminGuinet/Extract_Taxinfo_from_blast
+  - BenjaminGuinet/Extract_NCBI_assembly_metadata
+  - BenjaminGuinet/Plot_read_statistics 
+  - BenjaminGuinet/DamagePlots_from_BAM 
+  - BenjaminGuinet/Genomes_to_MSA 
+  - BenjaminGuinet/Bam_to_cov_range
+  - BenjaminGuinet/PhD
