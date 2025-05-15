@@ -139,19 +139,14 @@
       "url": ""
     }
   ],
-  "skills": [
+  "reviews for journals": [
     {
-      "name": "Biology",
+      "name": "Reviews",
       "level": "Master",
       "keywords": [
-        "Workflow (Nextflow/Snakemake)",
-        "Bioinformatics",
-        "Basic wet lab",
-        "Evolution",
-        "Virology",
-        "Ancient DNA",
-        "Phylogeny",
-        "Metagenomics"
+        "2025 - Bioinformatics",
+        "2024 - Journal of invertebrate pathology",
+        "2023 - Virus Evolution"
       ]
     }
   ],
