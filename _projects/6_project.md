@@ -1,7 +1,7 @@
 ---
 layout: page
-title: A new viral family (*Filamentoviridae*)
-description: In this project, we described the new family of dsDNA virus we named *Filamentoviridae*. 
+title: A new viral family (<em>Filamentoviridae</em>)
+description: In this project, we described the new family of dsDNA virus we named <em>Filamentoviridae</em>.
 img: assets/img/Filamentoviridae_illustration.png
 importance: 1
 category: work
