@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-subject-of-study",
           title: "Subject of study",
-          description: "The collection of my previous and angoing projects.",
+          description: "The collection of my previous, angoing and futur projects.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -135,6 +135,16 @@ ninja.data = [{
           description: "In this project we assessed how endoparasitoid lifestyle promotes endogenization and domestication of dsDNA viruses",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
+            },},{id: "projects-measle-evolutionnary-dynamics",
+          title: 'Measle evolutionnary dynamics',
+          description: "We will study the measles evolutionary dynamics before and after vaccination. This will be part of my Alfried Krupp Junior fellowship.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
+            },},{id: "projects-the-evolution-of-rinderpest-through-vaccination",
+          title: 'The evolution of Rinderpest through vaccination',
+          description: "We will study the rinder evolutionary dynamics before and after vaccination. This will be part of my Marie Skłodowska-Curie postdoctoral fellowship.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/5_project/";
             },},{
         id: 'social-bluesky',
         title: 'Bluesky',
