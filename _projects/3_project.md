@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A global approach on viral domestication among parasitoid wasps 
+title: Viral domestications in parasitoid wasps 
 description: In this project we assessed how endoparasitoid lifestyle promotes endogenization and domestication of dsDNA viruses
 img: assets/img/Parasitoid_wasp_illustration.png
 redirect: https://unsplash.com
