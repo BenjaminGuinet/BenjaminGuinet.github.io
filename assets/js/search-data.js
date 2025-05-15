@@ -124,7 +124,7 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
             },},{id: "projects-new-viral-family-filamentoviridae",
-          title: 'New viral family (Filamentoviridae)',
+          title: 'New viral family Filamentoviridae',
           description: "In this project, we described the new family of dsDNA virus we named Filamentoviridae. This new family has been submitted to ICTV.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
