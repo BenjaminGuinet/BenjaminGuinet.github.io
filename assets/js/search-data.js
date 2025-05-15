@@ -123,9 +123,9 @@ ninja.data = [{
           description: "We will study the rinder evolutionary dynamics before and after vaccination. This will be part of my Marie Skłodowska-Curie postdoctoral fellowship.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/5_project/";
-            },},{id: "projects-a-new-viral-family-filamentoviridae",
-          title: 'A new viral family (Filamentoviridae)',
-          description: "In this project, we described the new family of dsDNA virus we named Filamentoviridae.",
+            },},{id: "projects-new-viral-family-filamentoviridae",
+          title: 'New viral family (Filamentoviridae)',
+          description: "In this project, we described the new family of dsDNA virus we named Filamentoviridae. This new family has been submitted to ICTV.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/6_project/";
             },},{
