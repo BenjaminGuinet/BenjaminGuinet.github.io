@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Postoctoral researcher at Centre for Palaeogenetics
 
 profile:
   align: right
@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-With an MSc in Evolutionary Biology and Ecology, a PhD in Evolutionary Genomics and a first postdoctoral experience in paleometagenomics, I specialize in studying the `interactions` between microbes and their hosts through an interdisciplinary `eco-evolutionary` lens. Over six years of research, I have contributed to various projects addressing genomic and evolutionary issues, resulting in significant publications and expertise in diverse biological models ranging from tiny parasitic wasps to giant woolly mammoths. During these years, I have worked on a wide range of scales, from `current biological interactions` involving symbiotic viruses,`Late Pleistocene` mammal remains, to the study of `endogenous viral elements` dating back several million years. 
+With an MSc in `Evolutionary Biology and Ecology`, a PhD in `Evolutionary Genomics`, and a first postdoctoral experience in `Paleometagenomics`, I specialize in investigating the `interactions` between microbes and their hosts through an interdisciplinary `eco-evolutionary` lens. Over five years of research, I have contributed to a range of projects exploring genomic and evolutionary questions, leading to publications and developing expertise across diverse biological systems—from tiny parasitic wasps to giant woolly mammoths. My work spans multiple scales and time periods, from `current biological interactions` involving symbiotic viruses, to `Late Pleistocene` mammalian remains, and even to `endogenous viral elements` dating back millions of years.
 
 
 
