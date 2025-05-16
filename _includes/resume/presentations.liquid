@@ -3,6 +3,7 @@
   {% for content in presentations %}
     <li class="list-group-item">
       <div class="row">
+        <!-- DATE & LOCATION COLUMN -->
         <div class="col-xs-2 col-sm-2 col-md-2 d-flex flex-column align-items-center justify-content-center">
           {% if content.date and content.date != '' %}
             {% assign date = content.date | split: '-' | slice: 0, 2 | join: '.' %}
@@ -15,12 +16,14 @@
             </span>
           {% endif %}
           {% if content.location %}
-            <p class="location mb-0 text-center" style="font-size: 0.85rem;">
-              <i class="fa-solid fa-location-dot iconlocation"></i>
-              {{ content.location }}
-            </p>
+            <div class="d-flex align-items-center justify-content-center" style="font-size: 0.85rem;">
+              <i class="fa-solid fa-location-dot iconlocation mr-1"></i>
+              <span class="text-center">{{ content.location }}</span>
+            </div>
           {% endif %}
         </div>
+
+        <!-- CONTENT COLUMN -->
         <div class="col-xs-10 col-sm-10 col-md-10 mt-2 mt-md-0">
           <h6 class="title font-weight-bold ml-1 ml-md-4">
             <a href="{{ content.url }}">{{ content.studyType }}</a>
