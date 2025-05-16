@@ -113,6 +113,18 @@
       "location": "Stockholm, Sweden",
       "url": "",
       "area": "",
+      "studyType": "Natural history museum annual metling pot",
+      "date": "2025",
+      "score": null,
+      "courses": [],
+      "honors": [],
+      "courses": "Advice from a postdoc for other young researchers"
+    },
+    {
+      "institution": "Talk",
+      "location": "Stockholm, Sweden",
+      "url": "",
+      "area": "",
       "studyType": "Infectious disease epidemiology (SciLifeLab & Wallenberg)",
       "date": "2025",
       "score": null,
@@ -181,7 +193,7 @@
       "courses": "Endogenization of dsDNA viruses as a widespread source of adaptation in endoparasitoid species"
     }
   ],
-  "reviews for journals": [
+  "reviews": [
     {
       "title": "Bioinformatics",
       "date": "2025",
