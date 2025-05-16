@@ -109,45 +109,76 @@
   ],
   "presentations": [
     {
-      "name": "A comprehensive investigation of Woolly mammoth remains associated with microbes",
-      "date": "2024",
-      "issuer": "Hologenomics Conference, Copenhagen, Denmark",
-      "url": ""
+      "institution": "Hologenomics Conference, Copenhagen, Denmark",
+      "location": "Lyon, France",
+      "url": "",
+      "area": "",
+      "studyType": "Talk",
+      "startDate": "2024",
+      "endDate": "2024",
+      "score": null,
+      "courses": [],
+      "honors": [],
+      "courses": "A comprehensive investigation of Woolly mammoth remains associated with microbes"
     },
     {
-      "name": "A comprehensive investigation of Woolly mammoth remains associated with microbes",
-      "date": "2024",
-      "issuer": "Society for Molecular Biology and Evolution Conference (SMBE), Puerto Vallarta, Mexico",
-      "url": ""
+      "institution": "Society for Molecular Biology and Evolution Conference (SMBE)",
+      "location": "Puerto Vallarta, Mexico",
+      "url": "",
+      "area": "",
+      "studyType": "Talk",
+      "startDate": "2022",
+      "endDate": "2022",
+      "score": null,
+      "courses": [],
+      "honors": [],
+      "courses": "Exploring the parasitoid diversity for virus domestication"
     },
     {
-      "name": "Exploring the parasitoid diversity for virus domestication",
-      "date": "2022",
-      "issuer": "Society for Evolutionary Biology (ESEB), Prague, Czech Republic",
-      "url": ""
+      "institution": "Congress of the International Society of Symbiosis (ISS)/Holobiont",
+      "location": "Lyon, France",
+      "url": "",
+      "area": "",
+      "studyType": "Talk",
+      "startDate": "2022",
+      "endDate": "2022",
+      "score": null,
+      "courses": [],
+      "honors": [],
+      "courses": "Timing of a viral domestication event in a clade of parasitic wasps"
     },
     {
-      "name": "Timing of a viral domestication event in a clade of parasitic wasps",
-      "date": "2022",
-      "issuer": "Congress of the International Society of Symbiosis (ISS)/Holobiont, Lyon, France",
-      "url": ""
-    },
-    {
-      "name": "Endogenization of dsDNA viruses as a widespread source of adaptation in endoparasitoid species",
-      "date": "2021",
-      "issuer": "Environmental and Agronomical Genomics Symposium, Tours, France",
-      "url": ""
+      "institution": "Environmental and Agronomical Genomics Symposium",
+      "location": "Tours, France",
+      "url": "",
+      "area": "",
+      "studyType": "Talk",
+      "startDate": "2021",
+      "endDate": "2021",
+      "score": null,
+      "courses": [],
+      "honors": [],
+      "courses": "Endogenization of dsDNA viruses as a widespread source of adaptation in endoparasitoid species"
     }
   ],
   "reviews for journals": [
     {
-      "name": "Reviews",
-      "level": "Master",
-      "keywords": [
-        "2025 - Bioinformatics",
-        "2024 - Journal of invertebrate pathology",
-        "2023 - Virus Evolution"
-      ]
+      "title": "Bioinformatics",
+      "date": "2025",
+      "awarder": "",
+      "url": ""
+    },
+    {
+      "title": "Journal of invertebrate patholog",
+      "date": "2024",
+      "awarder": "",
+      "url": ""
+    },
+    {
+      "title": "Virus Evolution",
+      "date": "2023",
+      "awarder": "",
+      "url": ""
     }
   ],
   "languages": [
