@@ -49,7 +49,7 @@
     {
       "institution": "University Claude Bernard Lyon 1 (UCBL1)",
       "location": "Lyon, France",
-      "url": "https://www.univ-lyon1.fr/",
+      "url": "https://e2m2.universite-lyon.fr/",
       "area": "Evolutionary Genomics",
       "studyType": "PhD",
       "startDate": "2019-10-01",
@@ -123,7 +123,7 @@
     {
       "institution": "Talk",
       "location": "Stockholm, Sweden",
-      "url": "",
+      "url": "https://www.scilifelab.se/event/ddls-ebi-symposium/",
       "area": "",
       "studyType": "Infectious disease epidemiology (SciLifeLab & Wallenberg)",
       "date": "2025",
@@ -135,7 +135,7 @@
     {
       "institution": "Talk",
       "location": "Copenhagen, Denmark",
-      "url": "",
+      "url": "https://www.appliedhologenomicsconference.eu/",
       "area": "",
       "studyType": "Hologenomics Conference",
       "date": "2024",
@@ -147,7 +147,7 @@
     {
       "institution": "Talk",
       "location": "Bruxelles, Belgium",
-      "url": "",
+      "url": "https://jfv-2024.sciencesconf.org/",
       "area": "",
       "studyType": "XXVIes Journées Francophones de Virologie",
       "date": "2023",
@@ -157,9 +157,9 @@
       "courses": "Global study of viral domestication in parasitoid wasps"
     },
     {
-      "institution": "Talk",
+      "institution": "Poster",
       "location": "Puerto Vallarta, Mexico",
-      "url": "",
+      "url": "https://smbe2024.org/",
       "area": "",
       "studyType": "Society for Molecular Biology and Evolution Conference (SMBE)",
       "date": "2022",
@@ -171,7 +171,7 @@
     {
       "institution": "Talk",
       "location": "Lyon, France",
-      "url": "",
+      "url": "https://iss10holobiont3.sciencesconf.org/",
       "area": "",
       "studyType": "Congress of the International Society of Symbiosis (ISS)/Holobiont",
       "date": "2022",
@@ -183,7 +183,7 @@
     {
       "institution": "Talk",
       "location": "Tours, France",
-      "url": "",
+      "url": "https://www.france-genomique.org/international-symposium-on-environmental-and-agronomical-genomics/?lang=en",
       "area": "",
       "studyType": "Environmental and Agronomical Genomics Symposium",
       "date": "2021",
