@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Subject of study
+title: Projects
 permalink: /projects/
 description: The collection of my previous, angoing and futur projects.
 nav: true
