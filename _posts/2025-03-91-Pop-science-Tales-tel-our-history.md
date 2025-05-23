@@ -210,6 +210,8 @@ The researcher even attempted to reconstruct the original version of the myth, i
 
 Of course, this reconstruction is only an approximation. Still, it offers a fascinating glimpse into the imagination of our distant ancestors and invites us to envision how these ancient stories might have taken shape.
 
+This is just one example, but many others can be found in the literature—for instance, the tale of *The Smith and the Devil*, which was adapted into a Netflix film in the Basque language, can be traced back to the Bronze Age [18].
+
 ## **Conclusion, between tales and stories**
 
 It is truly remarkable that these stories have survived for millennia without ever being written down. They were passed along long before our modern languages existed, spoken in dialects now lost to time. Yet, through the enduring power of storytelling, these tales have persevered. Their motifs are timeless and universal—exploring fundamental dichotomies such as good versus evil, love versus hate, and moral versus immoral. Though often dismissed as mere fiction or children’s narratives, folk tales continue to nourish and enrich our collective imagination.
@@ -240,7 +242,9 @@ Over the centuries, the ways we tell stories have evolved dramatically. In human
 12. Jamshid J. Tehrani., 2013. The Phylogeny of Little Red Riding Hood, PLOS ONE, vol. 8, n°11: e78871.
 13. Patrice Lajoye, Julien d'Huy and Jean-Loïc Le Quellec., 2013. reply to tethrani ; http://nouvellemythologiecomparee.hautetfort.com  
 14. Ziolkowski JM., 1992. A fairy tale from before fairy tales: Egbert of Liege’s ‘‘De puella a lupellis seruata’’ and the medieval background of ‘‘Little Red Riding
-15. Da Silva, S. and Tehrani, J., 2016. Comparative phylogenetic analyses uncover the ancient roots of Indo-European folktales. Royal Society Open Science, 3(1), p.150645.
+15. Julien d’Huy. A Cosmic Hunt in the Berber sky: : a phylogenetic reconstruction of a Palaeolithic
+mythology.. Les Cahiers de l’AARS, 2013, 15, pp.93-106. ￿halshs-00932197￿
 16. Bond, J.D., 2019. Paleodrainage map of Beringia. Yukon Geological Survey, 
 17. Geggel, L., 2019. Humans Crossed The Bering Land Bridge To People The Americas. Here’S What It Looked Like 18,000 Years Ago.. [online] livescience.com.
+18. Da Silva, S. and Tehrani, J., 2016. Comparative phylogenetic analyses uncover the ancient roots of Indo-European folktales. Royal Society Open Science, 3(1), p.150645.
 
