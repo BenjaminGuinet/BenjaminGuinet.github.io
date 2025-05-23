@@ -66,7 +66,7 @@ What’s particularly intriguing is that when you leaf through the pages of the 
 
 ## **Using biology to solve folklore problems**
 
-### **A question then arises in folkloristics (the study of popular traditions and customs): where do these stories come from?**
+**A question then arises in folkloristics (the study of popular traditions and customs): where do these stories come from?**
 
 To explore the origins and evolution of stories, we must rely on the traces that have withstood the passage of time. Yet most of these tales have been passed down orally, leaving behind few written records—much like the sparse fossil evidence available to paleontologists. This makes tracing the history of stories particularly challenging, even with the tools of traditional literary analysis.
 
