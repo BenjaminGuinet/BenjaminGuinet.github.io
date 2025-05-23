@@ -13,6 +13,12 @@ images:
 
 ## **Introduction**
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/Pangolin_pere_castor.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
 We've all read or listened to fabulous stories from a book of fairy tales. These stories make us dream, have nightmares, laugh or think. But where do they come from? To answer this question, I propose to analyse the history of these stories. We will see that stories are a profound part of ourselves and of the history we all share.
 
 Firstly, we will look at the reasons that have led and continue to lead human beings to invent stories. We will discover that every culture has its own stories, and that these stories evolve over the centuries.
@@ -33,7 +39,7 @@ Humans have been telling stories for a very long time, even before they could pu
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/Contes-evolution-pangolin.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/FIG2_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -41,7 +47,11 @@ Humans have been telling stories for a very long time, even before they could pu
 
 Versions of a story often reflect specific moral standards and mores close to the social classes that tell them. So it's not unusual to see adaptations that meet the needs of their audience [1].
 
-[FIGURE2]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG3_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Modern stories, though imprinted in the memories of countless storytellers, have been completely transformed from their original versions. Over time, these stories have been imbued with the various desires, struggles and complaints of their tellers, and provide perfect snapshots of the societies that created or modified them.
 
@@ -69,9 +79,14 @@ Thanks to this principle, it is possible to study the evolution of living beings
 
 Ouch, that's off to a good start, already a barbaric name for a scientist! Well, not so much if we look at its etymology. Phylogeny comes from the Greek phylon, meaning tribe or species, and gennan, meaning origin or formation. The result is a word that refers to **the study of the formation of species**.  Phylogeny studies the formation and evolution of living organisms, as well as the relationships between these organisms.
 
-[FIGURE3]
 
 ### **The link between phylogeny and fairytales**
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG4_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 You may be wondering what the link is between phylogeny and my stories? Well, as the famous anthropologist Claude Lévi-Strauss [8] pointed out, stories, like organisms, probably evolve through progressive changes in hereditary traits! Just like species, the original forms of stories mutate, evolve and spread as they spread. They adapt to different environments and accumulate modifications that are passed down through the generations. They can thus give rise to locally distinct tales.
 
@@ -79,16 +94,31 @@ To examine how stories vary between cultures and periods, it is possible to defi
 
 These characteristics might include the gender of the hero (girl or boy), the species of animal that embodies the villain (wolf, tiger or ogre) or the location of the story (forest, town, mountain).
 
-[FIGURE4]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG5_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 The idea is to analyse these characteristics as if they were physical characteristics or genes and to use them to reconstruct the genealogy of the story, just as we would for a species phylogeny. So, if two histories have similar characteristics, it is likely that they have a recent common origin.
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG6_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ## **Little Red Riding Hood**
 
 Little Red Riding Hood is one of the world's most popular tales. This tale delicately explores our greatest fears. It's a story about the struggle between good and evil, about greed and hope, about responsibility and second chances.
 
 ### **The classic tale**
-[FIGURE4]
+
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG7_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 If this story rings a bell, it's because you've inherited the first French version of Little Red Riding Hood. It was written by Charles Perrault in the late 17th century [9,10], and later collected by the Grimm brothers [3].
 
@@ -96,7 +126,11 @@ If you're frowning and thinking that this isn't the version you know, well, that
 
 ### **Strangely similar tales**
 
-[FIGURE5]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG8_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Strange similarities with Little Red Riding Hood, don't you think?
 
@@ -109,7 +143,11 @@ Little Red Riding Hood: an old story
 
 Long before the scientific study that follows, anthropologists were already interested in the tales of Little Red Riding Hood and The Wolf and the 7 kids because of their strange similarities. They did not know whether the two tales had common or distinct origins.
 
-[FIGURE6]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG9_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 To unravel these questions, one researcher carried out a phylogenetic study. He had to look at all the stories associated with Little Red Riding Hood: 58 versions and no fewer than 72 plot variants [12]! And to answer the question of their origin, there's only one solution: read them all! As you can probably imagine, it's very complicated to collect all this data. This often leads (as in this case) to choices that are more or less debatable [13]. Nonetheless, this study has opened up the field to other explorers of folklore, enabling them to carry out more rigorous work in the future. 
 
@@ -128,7 +166,11 @@ To convince you (just a little more) of the value of studying the origins of fai
 
 Let's continue with a much older story. 
 
-[FIGURE7]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG10_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 In the Palaeolithic period, when our ancestors were still hunter-gatherers, none of this existed. The cap was not invented until the early 19th century, the crown in Antiquity, and what we might think of as a saucepan is not much older. Humans of that era had a completely different way of looking at life, much more in touch with nature. But how do we know what they were imagining?
 
@@ -137,13 +179,21 @@ The myth
 
 It all starts with a story that is widespread among the peoples of Africa, Europe, Asia and America [15]: the Cosmic Hunt. Although the animals and constellations may differ, all versions of the Cosmic Hunt share a common thread. A man chases or kills one or more animals, and the creatures are transformed into constellations.
 
-[FIGURE8]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG11_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Other versions are found all over the world, such as that of the Iroquois peoples of North America. In this one, three hunters pursue a bear, the blood of the wounded animal staining the leaves of the autumn forest. The bear climbs a mountain and leaps into the sky. The hunters and the bear become the constellation of the Big Dipper. For the Chukchi, a Siberian people, the constellation Orion is a hunter chasing a reindeer, Cassiopeia.
 
 How can we explain these strange similarities that can be found in different places? One possibility is to consider a convergence hypothesis (i.e. an appearance independent of history in distant regions). Many cultures around the world would have produced similar myths because of a sort of unified subconscious? As if a collective psyche had driven us to explain the world using the same symbols. But this does not seem to be the most likely hypothesis, given the work of a French researcher.
 
-[FIGURE9]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG12_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ## **The phylogenetic study**
 
