@@ -162,7 +162,7 @@ Fascinating, isn’t it?
 
 And if you’re still not convinced of the power of phylogenetic tools to study the evolution of fairy tales, don’t worry—we have one more captivating example coming up.
 
-## **The Cosmic hunting in the Berber sky**
+## **The Cosmic hunt in the Berber sky**
 ### **15,000 years ago...**
 
 Let's continue with a much older story. 
