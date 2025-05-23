@@ -76,6 +76,28 @@ ninja.data = [{
             window.location.href = "/blog/2025/Pop-science-Tales-tel-our-history/";
           
         },
+      },{id: "post-parasitoid-wasps-between-science-fiction-domestication-and-viruses",
+        
+          title: "Parasitoid wasps between science fiction, domestication and viruses!",
+        
+        description: "Popular scientific paper",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Pop-science_Parasitoids/";
+          
+        },
+      },{id: "post-natural-selection",
+        
+          title: "Natural Selection",
+        
+        description: "Popular scientific paper",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Pop-science_Natural_selection/";
+          
+        },
       },{id: "post-sexual-selection-from-sexy-dancing-to-cheating-anything-goes",
         
           title: "Sexual selection, from sexy dancing to cheating, anything goes!",
