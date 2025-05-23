@@ -192,7 +192,7 @@ Versions of the Cosmic Hunt can be found all over the world. Take, for example, 
 
 How can we explain these striking similarities across such distant cultures? One possible explanation is the convergence hypothesis—that these myths arose independently in separate regions due to similar human experiences or a shared collective subconscious. In other words, different peoples might have crafted similar stories because certain symbols and themes resonate universally when trying to make sense of the world.
 
-However, this theory isn’t the most convincing one, especially in light of the research conducted by a French researcher who offers a different perspective.
+However, this theory isn’t the most convincing one, especially in light of the research conducted by a researcher who offers a different perspective.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -213,8 +213,6 @@ Of course, this reconstruction is only an approximation. Still, it offers a fasc
 ## **Conclusion, between tales and stories**
 
 It is truly remarkable that these stories have survived for millennia without ever being written down. They were passed along long before our modern languages existed, spoken in dialects now lost to time. Yet, through the enduring power of storytelling, these tales have persevered. Their motifs are timeless and universal—exploring fundamental dichotomies such as good versus evil, love versus hate, and moral versus immoral. Though often dismissed as mere fiction or children’s narratives, folk tales continue to nourish and enrich our collective imagination.
-Final Word
-
 
 ## **Final word**
 
