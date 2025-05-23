@@ -205,6 +205,8 @@ So we need to remain cautious about the observations we make about the world aro
 In this article we have just seen a few examples that I have chosen, but in reality there are as many differences as there are species. I haven't even mentioned species that don't reproduce sexually or those in which the sex changes over the course of an individual's life (but that's only part of the story)! Personally, I'm still fascinated by all the singularities that surround us, especially as sexuality in general shapes and occupies a key place in evolutionary processes: the passing on of genes!
 
 
+[French version](https://www.projetpangolin.com/la-selection-sexuelle/)
+
 **References**
 
 1- Darwin, C., 1875. The Descent of Man, and Selection in relation to Sex. Nature, 11(277)
