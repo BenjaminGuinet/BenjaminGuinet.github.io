@@ -110,6 +110,12 @@ The idea is to analyse these characteristics as if they were physical characteri
 
 ## **Little Red Riding Hood**
 
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG9_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
 Little Red Riding Hood is one of the world's most popular tales. This tale delicately explores our greatest fears. It's a story about the struggle between good and evil, about greed and hope, about responsibility and second chances.
 
 ### **The classic tale**
@@ -141,12 +147,6 @@ Now, what if I told you that to explore this question, we can actually turn to t
 ### **Little Red Riding Hood: an old story**
 
 Even before scientific studies entered the picture, anthropologists were captivated by the parallels between *Little Red Riding Hood* and *The Wolf and the Seven Young Goats*. The similarities were so pronounced that researchers long debated whether these stories stemmed from a shared ancestral tale or had developed independently. The question remained open—until new methods offered a fresh perspective.
-
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/FIG9_tales.png" class="img-fluid rounded z-depth-1" zoomable=true %}
-    </div>
-</div>
 
 To unravel these questions, one researcher conducted a phylogenetic study of the *Little Red Riding Hood* story. He examined 58 versions of the tale and identified no fewer than 72 distinct plot variants [12]! And to trace their origins, there was only one option: read them all. As you can imagine, collecting such a vast dataset is no small task. It often involves making choices—some more debatable than others [13]. Still, this pioneering study opened the door for future folklorists to take a more rigorous and systematic approach.
 
