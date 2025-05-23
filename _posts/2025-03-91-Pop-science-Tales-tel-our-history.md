@@ -140,7 +140,7 @@ Now, what if I told you that to explore this question, we can actually turn to t
 
 ### **Little Red Riding Hood: an old story**
 
-Even before scientific studies entered the picture, anthropologists were captivated by the parallels between L*Little Red Riding Hood* and *The Wolf and the Seven Young Goats*. The similarities were so pronounced that researchers long debated whether these stories stemmed from a shared ancestral tale or had developed independently. The question remained open—until new methods offered a fresh perspective.
+Even before scientific studies entered the picture, anthropologists were captivated by the parallels between *Little Red Riding Hood* and *The Wolf and the Seven Young Goats*. The similarities were so pronounced that researchers long debated whether these stories stemmed from a shared ancestral tale or had developed independently. The question remained open—until new methods offered a fresh perspective.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
