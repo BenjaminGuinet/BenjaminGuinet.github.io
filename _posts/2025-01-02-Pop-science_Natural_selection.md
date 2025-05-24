@@ -19,13 +19,13 @@ If so, you’ve already begun to wonder how such wonders of nature came to be. P
 
 To explore this idea together, I invite you to embark on a journey:
 
-    -First, we’ll travel back in time to revisit the early thoughts of our ancestors.
+- First, we’ll travel back in time to revisit the early thoughts of our ancestors.
 
-    -Then, we’ll dive into the heart of the matter and unravel the mechanisms behind the theory known as natural selection.
+- Then, we’ll dive into the heart of the matter and unravel the mechanisms behind the theory known as natural selection.
 
-    -We’ll see how chance, guided by nature, can endow certain species with astonishing abilities.
+- We’ll see how chance, guided by nature, can endow certain species with astonishing abilities.
 
-    -And to fully convince you, we’ll examine a striking example of evolution that unfolds within a single human lifetime.
+- And to fully convince you, we’ll examine a striking example of evolution that unfolds within a single human lifetime.
 
 Finally, we’ll take a look at some of the key controversies that have shaped the history of this groundbreaking theory.
 
@@ -176,11 +176,9 @@ On average, a child inherits about 175 mutations different from those of their p
 
 It’s easy to imagine that, after thousands of generations, this process can produce incredible traits:
 
-    -The telescopic eyes of a hawk ready to swoop on its prey,
-
-    -The incredible strength of a mantis shrimp capable of breaking a skull,
-
-    -Or the majestic aquatic ballet of a blue whale —
+- The telescopic eyes of a hawk ready to swoop on its prey,
+- The incredible strength of a mantis shrimp capable of breaking a skull,
+- Or the majestic aquatic ballet of a blue whale —
 
 These are just a few of the countless amazing examples found across our planet.
 
