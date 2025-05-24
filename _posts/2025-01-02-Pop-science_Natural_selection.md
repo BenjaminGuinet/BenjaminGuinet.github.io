@@ -31,7 +31,11 @@ Finally, we’ll take a look at some of the key controversies that have shaped t
 
 ## **So, what exactly is evolution?**
 
-[FIGURE1]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG1_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 In biology, evolution refers to the change in characteristics of a given species over multiple generations — such as the shape of a bird’s beak or the development of limbs in tetrapods. This process is driven by several evolutionary mechanisms.
 
@@ -47,7 +51,11 @@ Like all scientific disciplines, evolutionary biology has its own philosophical 
 
 As early as Antiquity, philosophers such as Plato and Aristotle were already pondering the nature and place of living beings in the world. Aristotle even developed an early system of animal classification known as the *Scala Naturae* — or “Great Chain of Being.”
 
-[FIGURE2]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG2_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Aristotle’s idea was based on the belief that living beings could be ranked on a hierarchical scale according to their degree of "perfection." At the top of this Scala Naturae were the angels, with humans placed just beneath them. All other creatures occupied progressively lower rungs of the ladder [1].
 
@@ -61,7 +69,11 @@ Between 1600 and 1800, the idea that “the path to God lies through the contemp
 
 In the 18th century, the Swedish botanist Carl von Linné (Linnaeus) proposed the concept of the species as the basic unit of classification. He introduced a hierarchical system that grouped organisms based on structural similarities: Species, Genus, Family, Order, Class, Phylum, and Kingdom [2].
 
-[FIGURE3]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG3_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Linnaeus classified species as if they were fixed and unchanging — in other words, as if evolution didn’t occur. But occasional hybrids between species (a phenomenon well known to dog breeders, for instance) hinted that the boundaries between species might not be as rigid as once believed.
 
@@ -73,11 +85,19 @@ In the early 19th century, French naturalist Jean-Baptiste Lamarck was the first
 
 To understand this theory, let’s look at a classic example: the long neck of the giraffe. Lamarck proposed that giraffes originally had necks similar in length to those of other animals [1]. But to reach the leaves high in acacia trees, they had to stretch — and stretch — and stretch. Over the course of their lives, this repeated effort gradually lengthened their necks. These changes were then passed on to their offspring, who continued the trend, eventually resulting in the long-necked giraffes we see today.
 
-[FIGURE4]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG4_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Despite the revolutionary nature of Lamarck’s theory[^1], the evolutionary mechanisms he proposed — collectively known as transformism — were far from convincing. And you’ve probably already spotted the issue! Just because one of your parents took up bodybuilding before you were conceived doesn’t mean you’re going to inherit all their hard-earned muscles!
 
-[FIGURE5]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG5_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 #### **What About Epigenetics?**
 
@@ -101,9 +121,17 @@ Over time, the theory of evolution has itself evolved — enriched by major scie
 
 To put it simply: chance proposes, nature disposes!
 
-[FIGURE6]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG6_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
-[FIGURE7]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG7_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 We should understand natural selection as a process without intelligence or intention. It has no goal, no purpose in the grand scheme of things. Simply put: chance deals the cards, and nature plays the hand.
 
@@ -113,7 +141,11 @@ Just like in any card game, the hands are reshuffled with each round. As the gam
 
 The players (i.e., the species) don’t get to choose which cards to play to stay in the game. Instead, it’s natural selection, as an evolutionary process, that “selects” the players whose hands give them a better shot at surviving and reproducing.
 
-[FIGURE8]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG8_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ## **But Where Do These Differences Between Individuals Come From?**
 
@@ -124,7 +156,11 @@ Mutations can indeed be caused by radioactive elements or ultraviolet radiation 
 But what kind of errors are we talking about?
 To understand what a mutation is, we first need to understand what is mutating — and what that means for the species. The answer lies in our genetic blueprint: it’s the DNA that mutates.
 
-[FIGURE9]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG9_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 In genetics, these “letters” are called nucleotides, and together they make up our entire genome. Our genome contains roughly 6.4 billion nucleotides!
 
@@ -132,7 +168,11 @@ In genetics, these “letters” are called nucleotides, and together they make 
 
 Yet, if we were to unravel all the DNA in our genome and lay it out flat on a table, it would be only about 1.8 millimeters long — incredibly small and incredibly compact.
 
-[FIGURE10]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG10_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 Among the 6.4 billion nucleotides that make up your genome, half come from your father and the other half from your mother. In a way, your parents passed down these nucleotides to you at conception.
 
@@ -140,7 +180,11 @@ Your DNA is present in every one of your cells — in billions of identical copi
 
 In other words, it’s like duplicating those 200 books of 500 pages — and doing it countless times!
 
-[FIGURE11]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG11_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 You’ve just learned how mutations happen — maybe not as spectacular as the X-Men, I admit! Still, while the cellular machinery that copies our DNA sometimes makes mistakes (about 1 error per 100,000 nucleotides), the vast majority of these errors (99%) [12] are repaired, and most of the rest have no real impact. Only occasionally do these errors change the course of a species’ history — and that’s what we’re about to explore!
 
@@ -152,15 +196,19 @@ That said, we still need to understand how a mutation in a particular gene can a
 
 Let’s look at an example:
 
-“CAT ATE RAT”
+“**C**AT ATE RAT”
 could mutate to:
-“BAT ATE RAT”
+“**B**AT ATE RAT”
 
 Here, the animal eating rats changes depending on the version — a small change with a big difference, it is unlikely to see a Bbat eating a rat tho..
 
 Now, let’s imagine a hypothetical gene involved in the scale color of a pangolin:
 
-[FIGURE12]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG12_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 During DNA replication, a nucleotide was mistakenly changed from a G to a T. This pangolin now passes down this modified gene to its offspring. It turns out this mutation changes the color of its scales, which become white instead of brown!
 
@@ -182,13 +230,21 @@ It’s easy to imagine that, after thousands of generations, this process can pr
 
 These are just a few of the countless amazing examples found across our planet.
 
-[FIGURE13]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG13_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ## **Natural Selection in Action!**
 
 To better understand how a mutation can be favored—or not—in a given environment, let’s look at a well-known example: **the peppered moth** [14]!
 
-[FIGURE14]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG14_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 ### **Before the Industrial Revolution**
 
@@ -216,11 +272,19 @@ As Darwinists, we reject the notion of a hierarchy or “ladder of life.” Yet,
 
 We’ve all seen the classic image of human evolution: five figures walking in a straight line towards a final goal, *Homo sapiens* (literally “wise man,” quite the label…).
 
-[FIGURE15]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG15_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 However, evolution is not directional and does not aim toward any predetermined goal. Humans are therefore not, contrary to what that illustration might suggest, perfect creatures. Every species is constantly evolving. There is no way to measure “progress” in evolution. Thus, the old hierarchical pyramid of life, where humans occupied the pinnacle, has given way to a beautiful egalitarian circle [15], in which every species continues to accumulate variations and evolve!
 
-[FIGURE16]
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/FIG16_NS.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
 
 To sum up, no species is superior to another. If we all share the planet Earth right now—from tiny 3-gram shrimp to majestic African elephants and delicate orchids—it’s because each of us has managed to survive and reproduce.
 
