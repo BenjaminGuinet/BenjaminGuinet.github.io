@@ -186,7 +186,7 @@ These are just a few of the countless amazing examples found across our planet.
 
 ## **Natural Selection in Action!**
 
-To better understand how a mutation can be favored—or not—in a given environment, let’s look at a well-known example: the peppered moth [14]!
+To better understand how a mutation can be favored—or not—in a given environment, let’s look at a well-known example: **the peppered moth** [14]!
 
 [FIGURE14]
 
