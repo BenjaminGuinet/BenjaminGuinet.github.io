@@ -5,7 +5,7 @@ date: 2025-05-12
 description: Popular scientific paper
 tags: Natural selection
 categories: pop-science
-thumbnail: assets/img/Giraf_natural_selection.png
+thumbnail: assets/img/Natural_selection_main.png
 images:
   compare: true
   slider: true
