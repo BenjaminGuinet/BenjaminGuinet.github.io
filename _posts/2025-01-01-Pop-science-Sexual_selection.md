@@ -5,7 +5,7 @@ date: 2025-05-12
 description: Popular scientific paper
 tags: Sexual selection
 categories: pop-science
-thumbnail: assets/img/Selection_sexuelle_animo.jpg
+thumbnail: assets/img/Vignette_SelectionSexuelle.png
 images:
   compare: true
   slider: true

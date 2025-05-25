@@ -5,7 +5,7 @@ date: 2025-05-12
 description: Popular scientific paper
 tags: Parasitoids domestications viruses
 categories: pop-science
-thumbnail: assets/img/Parasito_Alien_virus.jpg
+thumbnail: assets/img/Vginette_parasitoid.png
 images:
   compare: true
   slider: true

@@ -5,7 +5,7 @@ date: 2025-05-12
 description: Popular scientific paper
 tags: Tales trace our history
 categories: pop-science
-thumbnail: assets/img/Contes_Pangolin_etoiles.jpg
+thumbnail: assets/img/Vignette_tale.png
 images:
   compare: true
   slider: true
