@@ -195,6 +195,12 @@
   ],
   "reviews": [
     {
+      "title": "Nature",
+      "date": "2025",
+      "awarder": "",
+      "url": "https://www.nature.com/"
+    },
+    {
       "title": "Bioinformatics",
       "date": "2025",
       "awarder": "",
