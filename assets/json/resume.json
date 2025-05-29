@@ -107,7 +107,19 @@
       "summary": "Each year, the Société Française de Virologie (SFV) and the ANRS Maladies Infectieuses Emergentes (ANRS-MIE) award thesis prizes to young scientists whose research stands out for its quality, originality, or innovation."
     }
   ],
-  "presentations": [
+  "conferences": [
+      {
+      "institution": "Attendee",
+      "location": "Villa Aske (Bro) & Stockholm, Sweden",
+      "url": "",
+      "area": "",
+      "studyType": "Nobel symposium",
+      "date": "2025",
+      "score": null,
+      "courses": [],
+      "honors": [],
+      "courses": "Palaeogenomics: charting the future of ancient DNA"
+    },
     {
       "institution": "Talk",
       "location": "Stockholm, Sweden",
