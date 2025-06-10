@@ -30,13 +30,13 @@ latest_posts:
 
 Welcome to my personal webpage :slightly_smiling_face:
 
-I’m an early-career researcher in evolutionary biology. My work focuses on understanding the interactions between hosts and their microbiomes, with a particular interest in viruses. I explore these dynamics across scales—from ancient viral infections in extinct species to modern-day host–microbe relationships.
+I’m an early-career researcher in `evolutionary biology`. My work focuses on understanding the interactions between hosts and their microbiomes, with a particular interest in `viruses`. I explore these dynamics across scales—from `ancient viral` infections in extinct species to `modern-day host–microbe relationships`.
 
 Here, you can learn more about my research. All articles are available as PDFs—just click on them to access the full version.
 
-I’m also passionate about science communication beyond academia. Check out the Blog section, where I share articles written for a broader audience on a range of topics—all viewed through the lens of evolution.
+I also enjoy science communication beyond academia. Check out the Check out the <a href="/blog">Blog section</a>, where I share articles written for a broader audience on a range of topics—all viewed through the lens of evolution.
 
-I'm always happy to connect—whether you're a fellow researcher interested in collaboration or simply curious about my work. Feel free to get in touch!
+I'm always happy to connect—whether you're a fellow researcher interested in collaboration or simply curious about my work. Feel free to reach my on `benjamin.guinet95@gmail.com`. 
 
 
 
