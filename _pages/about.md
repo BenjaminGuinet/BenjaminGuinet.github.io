@@ -28,7 +28,15 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-With an MSc in `Evolutionary Biology and Ecology`, a PhD in `Evolutionary Genomics`, and a first postdoctoral experience in `Paleometagenomics`, I specialize in investigating the `interactions` between microbes and their hosts through an interdisciplinary `eco-evolutionary` lens. Over five years of research, I have contributed to a range of projects exploring genomic and evolutionary questions, leading to publications and developing expertise across diverse biological systems—from tiny parasitic wasps to giant woolly mammoths. My work spans multiple scales and time periods, from `current biological interactions` involving symbiotic viruses, to `Late Pleistocene` mammalian remains, and even to `endogenous viral elements` dating back millions of years.
+Welcome to my personal webpage :slightly_smiling_face:
+
+I’m an early-career researcher in evolutionary biology. My work focuses on understanding the interactions between hosts and their microbiomes, with a particular interest in viruses. I explore these dynamics across scales—from ancient viral infections in extinct species to modern-day host–microbe relationships.
+
+Here, you can learn more about my research. All articles are available as PDFs—just click on them to access the full version.
+
+I’m also passionate about science communication beyond academia. Check out the Blog section, where I share articles written for a broader audience on a range of topics—all viewed through the lens of evolution.
+
+I'm always happy to connect—whether you're a fellow researcher interested in collaboration or simply curious about my work. Feel free to get in touch!
 
 
 
