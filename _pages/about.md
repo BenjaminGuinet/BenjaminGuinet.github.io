@@ -36,7 +36,7 @@ Here, you can learn more about my research. All articles are available as PDFs�
 
 I also enjoy science communication beyond academia. Check out the <a href="/blog">Blog section</a>, where I share articles written for a broader audience on a range of topics—all viewed through the lens of evolution.
 
-I'm always happy to connect—whether you're a fellow researcher interested in collaboration or simply curious about my work. Feel free to reach my on `benjamin.guinet95@gmail.com`. 
+I'm always happy to connect—whether you're a fellow researcher interested in collaboration or simply curious about my work. Feel free to reach me on `benjamin.guinet95@gmail.com`. 
 
 
 
