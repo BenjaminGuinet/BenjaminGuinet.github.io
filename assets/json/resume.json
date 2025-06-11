@@ -46,8 +46,8 @@
     },
     {
       "organization": "Declics",
-      "location": "Lyon, France",
-      "position": "Albert Camus high school in Rilleux-la-Pape",
+      "location": "Rilleux-la-Pape, France",
+      "position": "Declics speaker",
       "url": "https://www.cerclefser.org/fr/declics/",
       "startDate": "2022",
       "summary": "The main objective was is answer questions from students about our scientific background and work.",
@@ -270,7 +270,7 @@
       "url": "https://academic.oup.com/ve"
     }
   ],
-  "media publications": [
+  "media": [
     {
       "title": "Wasps stole some of their genes from viruses",
       "date": "2025",
