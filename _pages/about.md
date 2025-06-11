@@ -6,7 +6,7 @@ subtitle: Postoctoral researcher at Centre for Palaeogenetics
 
 profile:
   align: right
-  image: Benjamin-image.jpg
+  image: Main_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Centre for Palaeogenetics<p>
