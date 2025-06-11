@@ -50,7 +50,7 @@
       "position": "Declics speaker",
       "url": "https://www.cerclefser.org/fr/declics/",
       "startDate": "2022",
-      "summary": "The main objective was is answer questions from students about our scientific background and work.",
+      "summary": "The main objective was was answer questions from students about our scientific background and work.",
       "highlights": ["High school", "Science communication", "Career talks", "Student engagement"]
     }
   ],
@@ -125,7 +125,6 @@
       "studyType": "European Society for Evolutionary Biology",
       "date": "2025",
       "score": null,
-      "courses": [],
       "honors": [],
       "courses": "Ancient Host-Associated Microbes obtained from Mammoth Remains"
     },
@@ -238,6 +237,38 @@
       "courses": "Endogenization of dsDNA viruses as a widespread source of adaptation in endoparasitoid species"
     }
   ],
+  "media": [
+    {
+      "title": "Wasps stole some of their genes from viruses",
+      "date": "2025",
+      "awarder": "The Economist",
+      "url": "https://www.economist.com/science-and-technology/2025/01/22/wasps-stole-genes-from-viruses"
+    },
+    {
+      "title": "Tracing the history of fairy tales using evolutionary biology tools",
+      "date": "2022",
+      "awarder": "POP Science",
+      "url": "https://popsciences.universite-lyon.fr/ressources/retracer-lhistoire-des-contes-de-fees-a-laide-de-la-biologie-evolutive/"
+    },
+    {
+      "title": "PhD work presentation",
+      "date": "2020",
+      "awarder": "Lyon1 BarCamp",
+      "url": "https://www.youtube.com/watch?v=TQgC46l9z3w"
+    },
+    {
+      "title": "A domesticated virus gives parasitoid wasps an evolutionary advantage (CNRS)",
+      "date": "2020",
+      "awarder": "CNRS",
+      "url": "https://www.cnrs.fr/fr/presse/un-virus-domestique-donne-un-avantage-evolutif-aux-guepes-parasitoides"
+    },
+    {
+      "title": "Virus Evolution",
+      "date": "2023",
+      "awarder": "",
+      "url": "https://academic.oup.com/ve"
+    }
+  ],
   "reviewing": [
     {
       "title": "Symbiosis",
@@ -262,38 +293,6 @@
       "date": "2024",
       "awarder": "",
       "url": "https://www.sciencedirect.com/journal/journal-of-invertebrate-pathology"
-    },
-    {
-      "title": "Virus Evolution",
-      "date": "2023",
-      "awarder": "",
-      "url": "https://academic.oup.com/ve"
-    }
-  ],
-  "media": [
-    {
-      "title": "Wasps stole some of their genes from viruses",
-      "date": "2025",
-      "awarder": "The Economist",
-      "url": "https://www.economist.com/science-and-technology/2025/01/22/wasps-stole-genes-from-viruses"
-    },
-    {
-      "title": "Tracing the history of fairy tales using evolutionary biology tools",
-      "date": "2022",
-      "awarder": "POP Science",
-      "url": "https://popsciences.universite-lyon.fr/ressources/retracer-lhistoire-des-contes-de-fees-a-laide-de-la-b iologie-evolutive/"
-    },
-    {
-      "title": "PhD work presentation",
-      "date": "2020",
-      "awarder": "Lyon1 BarCamp",
-      "url": "https://www.youtube.com/watch?v=TQgC46l9z3w"
-    },
-    {
-      "title": "A domesticated virus gives parasitoid wasps an evolutionary advantage (CNRS)",
-      "date": "2020",
-      "awarder": "CNRS",
-      "url": "https://www.cnrs.fr/fr/presse/un-virus-domestique-donne-un-avantage-evolutif-aux-guepes-parasitoides"
     },
     {
       "title": "Virus Evolution",
