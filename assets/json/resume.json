@@ -43,6 +43,15 @@
       "endDate": "2023-10-01",
       "summary": "Projet Pangolin is a science outreach initiative for all ages, focused on promoting biodiversity conservation.",
       "highlights": ["Outreach", "School", "College", "High school"]
+    },
+    {
+      "organization": "Declics",
+      "location": "Lyon, France",
+      "position": "Albert Camus high school in Rilleux-la-Pape",
+      "url": "https://www.cerclefser.org/fr/declics/",
+      "startDate": "2022",
+      "summary": "The main objective was is answer questions from students about our scientific background and work.",
+      "highlights": ["High school", "Science communication", "Career talks", "Student engagement"]
     }
   ],
   "education": [
