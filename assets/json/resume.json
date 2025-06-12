@@ -136,7 +136,6 @@
       "studyType": "Nobel symposium",
       "date": "2025",
       "score": null,
-      "courses": [],
       "honors": [],
       "courses": "Palaeogenomics: charting the future of ancient DNA"
     },
@@ -148,7 +147,6 @@
       "studyType": "Natural history museum annual metling pot",
       "date": "2025",
       "score": null,
-      "courses": [],
       "honors": [],
       "courses": "Advice from a postdoc for other young researchers"
     },
@@ -160,7 +158,6 @@
       "studyType": "Infectious disease epidemiology (SciLifeLab & Wallenberg)",
       "date": "2025",
       "score": null,
-      "courses": [],
       "honors": [],
       "courses": "Ancient Host-Associated Microbes obtained from Mammoth Remains"
     },
@@ -172,7 +169,6 @@
       "studyType": "Hologenomics Conference",
       "date": "2024",
       "score": null,
-      "courses": [],
       "honors": [],
       "courses": "A comprehensive investigation of Woolly mammoth remains associated with microbes"
     },
@@ -184,7 +180,6 @@
       "studyType": "XXVIes Journées Francophones de Virologie",
       "date": "2023",
       "score": null,
-      "courses": [],
       "honors": [],
       "courses": "Global study of viral domestication in parasitoid wasps"
     },
@@ -196,7 +191,6 @@
       "studyType": "Society for Molecular Biology and Evolution Conference (SMBE)",
       "date": "2024",
       "score": null,
-      "courses": [],
       "honors": [],
       "courses": "Ancient Host-Associated Microbes obtained from Mammoth Remains"
     },
@@ -208,7 +202,6 @@
       "studyType": "European Society for Evolutionary Biology",
       "date": "2022",
       "score": null,
-      "courses": [],
       "honors": [],
       "courses": "Exploring the parasitoid diversity for virus domestication"
     },
@@ -220,7 +213,6 @@
       "studyType": "Congress of the International Society of Symbiosis (ISS)/Holobiont",
       "date": "2022",
       "score": null,
-      "courses": [],
       "honors": [],
       "courses": "Timing of a viral domestication event in a clade of parasitic wasps"
     },
@@ -232,7 +224,6 @@
       "studyType": "Environmental and Agronomical Genomics Symposium",
       "date": "2021",
       "score": null,
-      "courses": [],
       "honors": [],
       "courses": "Endogenization of dsDNA viruses as a widespread source of adaptation in endoparasitoid species"
     }
