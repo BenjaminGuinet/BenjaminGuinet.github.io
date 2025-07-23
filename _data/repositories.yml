@@ -5,6 +5,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - CpgSthlm/aDNA_Damage
   - BenjaminGuinet/BLAST_CPG_workshop
   - BenjaminGuinet/Mark_newicks
   - BenjaminGuinet/Extract_Taxinfo_from_blast
