@@ -6,6 +6,7 @@ repo_description_lines_max: 2
 
 github_repos:
   - BenjaminGuinet/BLAST_CPG_workshop
+  - BenjaminGuinet/Mark_newicks
   - BenjaminGuinet/Extract_Taxinfo_from_blast
   - BenjaminGuinet/Extract_NCBI_assembly_metadata
   - BenjaminGuinet/Plot_read_statistics 
