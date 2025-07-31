@@ -5,6 +5,8 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - BenjaminGuinet/Mark_newicks
+  - BenjaminGuinet/Load_Kraken2_db_only_once
   - CpgSthlm/aDNA_Damage
   - BenjaminGuinet/BLAST_CPG_workshop
   - BenjaminGuinet/Mark_newicks
