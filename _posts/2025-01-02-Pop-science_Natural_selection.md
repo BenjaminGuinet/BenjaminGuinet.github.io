@@ -11,9 +11,6 @@ images:
   slider: true
 ---
 
-Translation in progress...
-
-
 Has your mind ever been stirred by the sight of an eagle swooping down on its prey, or a giraffe whose remarkably long neck seems perfectly suited to the height of the trees?
 If so, you’ve already begun to wonder how such wonders of nature came to be. Part of the answer lies in the powerful concept of natural selection.
 
