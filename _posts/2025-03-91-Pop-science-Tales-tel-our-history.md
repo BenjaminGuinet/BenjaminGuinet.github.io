@@ -221,7 +221,6 @@ It is truly remarkable that these stories have survived for millennia without ev
 Over the centuries, the ways we tell stories have evolved dramatically. In humanity’s earliest days, our ancestors likely gathered around a fire, weaving tales born from their natural surroundings and vivid imaginations. Today, stories are shared instantly with a click. We are privileged to have access to this vast legacy of storytelling—and we should cherish it. But more importantly, we must keep sharing these stories and let them inspire us to create new ones. Because if there is one thing humanity can truly be proud of, it is the boundless power of our imagination.
 
 
-**Author:** Benjamin Guinet
 **Illustrations:** Vincent Lhuillier
 **Reviewing:** The Project Pangolin team 
 

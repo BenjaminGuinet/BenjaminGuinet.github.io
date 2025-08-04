@@ -207,6 +207,7 @@ In this article we have just seen a few examples that I have chosen, but in real
 
 [French version](https://www.projetpangolin.com/la-selection-sexuelle/)
 
+**Illustrations:** Vincent Lhuillier & Salomé Bourg
 **Reviewing:** The Project Pangolin team 
 
 **References**
