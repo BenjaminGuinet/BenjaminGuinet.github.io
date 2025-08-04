@@ -305,6 +305,7 @@ Author: Benjamin Guinet (Reviewed by: Laura Touzot and Salomé Bourg)
 
 [French version](https://www.projetpangolin.com/selection-naturelle-mecanismes-exemples-concrets/)
 
+**Reviewing:** The Project Pangolin team 
 
 **References**
 

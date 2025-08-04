@@ -207,6 +207,8 @@ In this article we have just seen a few examples that I have chosen, but in real
 
 [French version](https://www.projetpangolin.com/la-selection-sexuelle/)
 
+**Reviewing:** The Project Pangolin team 
+
 **References**
 
 1- Darwin, C., 1875. The Descent of Man, and Selection in relation to Sex. Nature, 11(277)

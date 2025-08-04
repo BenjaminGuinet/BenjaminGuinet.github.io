@@ -223,6 +223,7 @@ Over the centuries, the ways we tell stories have evolved dramatically. In human
 
 **Author:** Benjamin Guinet
 **Illustrations:** Vincent Lhuillier
+**Reviewing:** The Project Pangolin team 
 
 [French version](https://www.projetpangolin.com/les-contes-bercent-notre-enfance-et-retracent-notre-histoire/)
 
