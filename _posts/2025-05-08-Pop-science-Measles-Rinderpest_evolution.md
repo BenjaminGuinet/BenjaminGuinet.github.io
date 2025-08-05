@@ -101,7 +101,7 @@ When an individual naturally contracts measles and survives, they generally acqu
 
 Hence, like rinderpest, this virus has not evolved into new serotypes like influenza, making its eradication technically possible.
 
-### ** So why are we failing?** ###
+### **So why are we failing?** ###
 
 The answer can be summed up in one word: human resources.
 
@@ -119,7 +119,7 @@ Peter Hotez, a public health expert, summed up the situation as follows:
 *«Measles is the canary in the coal mine for vaccine-preventable diseases. When it resurges, it’s a sign of broader systemic failure in public health infrastructure and trust.»* (Hotez, 2021)
 
 
-### ** The issue goes beyond medicine** ###
+### **The issue goes beyond medicine** ###
 Measles is a good example of how fighting a virus is not just a matter of vaccination, but also of communication, social justice, logistics and trust in science. Even with an excellent vaccine, a lack of coordination or will can ruin all efforts.
 
 Even today, despite massive campaigns by the WHO, Gavi and UNICEF, more than 107,000 children died of measles in 2023, a completely preventable disease that has already saved the lives of nearly 60 million people between 2000 and 2023. 
