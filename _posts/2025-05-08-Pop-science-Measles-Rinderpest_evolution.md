@@ -50,10 +50,11 @@ But elsewhere, rinderpest continued to wreak havoc. In Africa, it triggered a ca
     </div>
 </div>
 
-It was not until the 1920s that the first attenuated vaccine was developed, and then the 1950s before a more effective vaccine enabled mass vaccination campaigns, thanks in particular to a coordinated programme between African countries: Joint Programme-15. As a reminder, a vaccine trains our immune system to recognise a pathogen without causing disease. It contains an attenuated or inactivated form of the microbe, or an antigen (often a protein).
-As a result, our body learns to defend itself. And if the pathogen appears later, the immune system reacts quickly and neutralises the infection.
+It was not until the 1920s that the first attenuated vaccine was developed, and then the 1950s before a more effective vaccine enabled mass vaccination campaigns, thanks in particular to a coordinated programme between African countries: Joint Programme-15. As a reminder, a vaccine trains our immune system to recognise a pathogen without causing disease. It contains an attenuated or inactivated form of the microbe, or an antigen (often a protein). As a result, our body learns to defend itself. And if the pathogen appears later, the immune system reacts quickly and neutralises the infection.
+
 After the programme's success until the 1970s, the premature cessation of vaccination led to a resurgence of the virus in Africa, Asia and the Middle East.
 The WHO responded with several global campaigns (PARC, PACE, GREP, etc.). After decades of international cooperation, the last reported outbreak of rinderpest occurred in Kenya in 2001; however, a 10-year period of active surveillance was necessary before global eradication could be declared in 2011, making it the second virus to be eradicated in history, after smallpox (1980). Today, almost all of the samples still present in laboratories, if any remain, are nothing more than pathological remnants, preserved for research or scientific memory purposes, but having lost all infectious capacity (Butler 2019).
+
 Ultimately, rinderpest not only devastated livestock, it also played an important role in the early history of infectious disease science. It helped inspire one of the earliest theories on the spread of disease (Morens 2003) and even led to the development of a vaccination plan (Anderson and McKay 1994). Scientists studying rinderpest were also the first to demonstrate that mothers could pass on their immunity to their offspring (Huygelen 1997). The global alarm raised by its ravages ultimately led to the creation of the World Organisation for Animal Health (OIE) in 1924.
 
 
@@ -66,7 +67,9 @@ Ultimately, rinderpest not only devastated livestock, it also played an importan
 </div>
 
 Let us now turn our attention to measles. Like its cousin rinderpest, it is an RNA virus of the Morbillivirus genus, meaning it has a very high mutation rate, giving it the ability to rapidly explore the space of possibilities in order to adapt to its host. However, we will see that in the case of rinderpest and measles, although they mutate rapidly, they tend to remain relatively stable over time. 
+
 As we saw above, measles is actually the result of a species jump. In 2020, researchers traced the history of the measles virus from ancient samples (including the lung of a child who died in 1912) (Düx et al. 2020). Their study shows that around 2,000 to 3,000 years ago (roughly when Buddha was living in South Asia and shortly before the birth of Socrates), a bovine virus accidentally found its way into the bodies of unsuspecting humans and then split into two strains: one became measles in humans, the other became rinderpest in cattle. 
+
 But why did this species jump occur at precisely this time, and why did it end up establishing itself permanently in humans?
 
 ### **When human density becomes a condition for a virus to survive** ###
