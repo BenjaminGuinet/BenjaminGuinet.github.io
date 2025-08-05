@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lessons from Rinderpest: Can We Eradicate Measles?
-date: 2025-05-08 
+date: 2025-08-05
 description: Popular scientific paper
 tags: Measles & Rinderpest Evolution
 categories: pop-science
