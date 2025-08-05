@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sexual selection, from sexy dancing to cheating, anything goes!
+title: Lessons from Rinderpest: Can We Eradicate Measles?
 date: 2025-05-08 
 description: Popular scientific paper
 tags: Measles & Rinderpest Evolution
