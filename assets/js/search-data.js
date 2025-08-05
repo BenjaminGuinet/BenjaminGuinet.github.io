@@ -65,15 +65,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-lessons-from-rinderpest-to-help-eradicate-measles",
         
-          title: "",
+          title: "Lessons from Rinderpest to help eradicate Measles?",
         
-        description: "",
+        description: "Popular scientific paper",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-05-08-Pop-science-Measles-Rinderpest_evolution/";
+            window.location.href = "/blog/2025/Pop-science-Measles-Rinderpest_evolution/";
           
         },
       },{id: "post-tales-lull-our-childhood-and-trace-our-history",
