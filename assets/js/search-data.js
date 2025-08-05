@@ -109,6 +109,17 @@ ninja.data = [{
             window.location.href = "/blog/2025/Pop-science-Sexual_selection/";
           
         },
+      },{id: "post-sexual-selection-from-sexy-dancing-to-cheating-anything-goes",
+        
+          title: "Sexual selection, from sexy dancing to cheating, anything goes!",
+        
+        description: "Popular scientific paper",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Pop-science-Measles-Rinderpest_evolution/";
+          
+        },
       },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
