@@ -5,7 +5,7 @@ date: 2025-05-08
 description: Popular scientific paper
 tags: Measles & Rinderpest Evolution
 categories: pop-science
-thumbnail: assets/img/Main_Measle_rinderpest.png
+thumbnail: assets/img/ILLUSTRATION_Measle_rinderpest.png
 images:
   compare: true
   slider: true
