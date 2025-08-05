@@ -65,9 +65,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-lessons-from-rinderpest-to-help-eradicate-measles",
+            },{id: "post-lessons-from-rinderpest-to-eradicate-measles",
         
-          title: "Lessons from Rinderpest to help eradicate Measles?",
+          title: "Lessons from Rinderpest to eradicate Measles?",
         
         description: "Popular scientific paper",
         section: "Posts",
