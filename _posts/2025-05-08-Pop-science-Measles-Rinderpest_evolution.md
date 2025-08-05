@@ -102,7 +102,7 @@ Unlike rinderpest, measles still exists. And yet, the current vaccine (MMRV), wh
 
 When an individual naturally contracts measles and survives, they generally acquire lifelong immunity. This means that it is highly unlikely that they will be reinfected later in life, and no additional doses of vaccine are necessary. Vaccination, on the other hand, confers this immunity without exposing the individual to the risks associated with natural infection. Furthermore, researchers have recently shown that measles infection can cause a form of ‘memory loss’ in the immune system, reducing its ability to remember pathogens it has encountered before. This phenomenon has not been observed in vaccinated children, further highlighting the importance of vaccination (Mina et al. 2019). Two doses of the vaccine are recommended to ensure immunity and prevent epidemics, as not all children develop immunity after the first dose.
 
-Hence, like rinderpest, this virus has not evolved into new serotypes like influenza, making its eradication technically possible.
+Hence, like rinderpest, this virus has not evolved into new serotypes like influenza, making its eradication easier.
 
 ### **So why are we failing?** ###
 
