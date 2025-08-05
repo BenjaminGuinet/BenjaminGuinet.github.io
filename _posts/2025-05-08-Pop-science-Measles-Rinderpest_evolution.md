@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lessons from Rinderpest: Can We Eradicate Measles?
+title: Lessons from Rinderpest to help eradicate Measles?
 date: 2025-08-05
 description: Popular scientific paper
 tags: Measles & Rinderpest Evolution
