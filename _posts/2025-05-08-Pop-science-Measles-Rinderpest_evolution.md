@@ -134,34 +134,37 @@ Even today, despite massive campaigns by the WHO, Gavi and UNICEF, more than 107
 Health, whether human or animal, is a fragile common good that must always be defended
 
 
+
+
+
 **References**
 
-Anderson, J., and J. A. McKay. 1994. “The Detection of Antibodies against Peste Des Petits Ruminants Virus in Cattle, Sheep and Goats and the Possible Implications to Rinderpest Control Programmes.” Epidemiology and Infection 112 (1): 225–31.
+- Anderson, J., and J. A. McKay. 1994. “The Detection of Antibodies against Peste Des Petits Ruminants Virus in Cattle, Sheep and Goats and the Possible Implications to Rinderpest Control Programmes.” Epidemiology and Infection 112 (1): 225–31.
 
-Bankamp, Bettina, Makoto Takeda, Yan Zhang, Wenbo Xu, and Paul A. Rota. 2011. “Genetic Characterization of Measles Vaccine Strains.” The Journal of Infectious Diseases 204 Suppl 1 (suppl_1): S533-48.
+- Bankamp, Bettina, Makoto Takeda, Yan Zhang, Wenbo Xu, and Paul A. Rota. 2011. “Genetic Characterization of Measles Vaccine Strains.” The Journal of Infectious Diseases 204 Suppl 1 (suppl_1): S533-48.
 
-Brozio, Jan Piet, Jutta Kneisel, Stefanie Schaefer-Di Maida, Julian Laabs, Ingo Feeser, Artur Ribeiro, and Sebastian Schultrich. 2024. “Patterns of Socio-Economic Cultural Transformations in Neolithic and Bronze Age Societies in the Central Northern European Plain.” In Perspectives on Socio-Environmental Transformations in Ancient Europe, 105–42. Cham: Springer Nature Switzerland.
+- Brozio, Jan Piet, Jutta Kneisel, Stefanie Schaefer-Di Maida, Julian Laabs, Ingo Feeser, Artur Ribeiro, and Sebastian Schultrich. 2024. “Patterns of Socio-Economic Cultural Transformations in Neolithic and Bronze Age Societies in the Central Northern European Plain.” In Perspectives on Socio-Environmental Transformations in Ancient Europe, 105–42. Cham: Springer Nature Switzerland.
 
-Butler, Declan. 2019. “Sequence and Destroy: The Quest to Eliminate the Last Stocks of Deadly Rinderpest Virus.” Nature 572 (7767): 18.
+- Butler, Declan. 2019. “Sequence and Destroy: The Quest to Eliminate the Last Stocks of Deadly Rinderpest Virus.” Nature 572 (7767): 18.
 
-Clark, Gregory. 2014. “Ian Morris. The Measure of Civilization: How Social Development Decides the Fate of Nations.” The American Historical Review 119 (3): 824–26.
+- Clark, Gregory. 2014. “Ian Morris. The Measure of Civilization: How Social Development Decides the Fate of Nations.” The American Historical Review 119 (3): 824–26.
 
-Düx, Ariane, Sebastian Lequime, Livia Victoria Patrono, Bram Vrancken, Sengül Boral, Jan F. Gogarten, Antonia Hilbig, et al. 2020. “Measles Virus and Rinderpest Virus Divergence Dated to the Sixth Century BCE.” Science (New York, N.Y.) 368 (6497): 1367–70.
+- Düx, Ariane, Sebastian Lequime, Livia Victoria Patrono, Bram Vrancken, Sengül Boral, Jan F. Gogarten, Antonia Hilbig, et al. 2020. “Measles Virus and Rinderpest Virus Divergence Dated to the Sixth Century BCE.” Science (New York, N.Y.) 368 (6497): 1367–70.
 
-Fulton, Benjamin O., David Sachs, Shannon M. Beaty, Sohui T. Won, Benhur Lee, Peter Palese, and Nicholas S. Heaton. 2015. “Mutational Analysis of Measles Virus Suggests Constraints on Antigenic Variation of the Glycoproteins.” Cell Reports 11 (9): 1331–38.
+- Fulton, Benjamin O., David Sachs, Shannon M. Beaty, Sohui T. Won, Benhur Lee, Peter Palese, and Nicholas S. Heaton. 2015. “Mutational Analysis of Measles Virus Suggests Constraints on Antigenic Variation of the Glycoproteins.” Cell Reports 11 (9): 1331–38.
 
-Huygelen, C. 1997. “The Immunization of Cattle against Rinderpest in Eighteenth-Century Europe.” Medical History 41 (2): 182–96.
+- Huygelen, C. 1997. “The Immunization of Cattle against Rinderpest in Eighteenth-Century Europe.” Medical History 41 (2): 182–96.
 
-Inoue, Hiroko, Alexis Álvarez, Eugene N. Anderson, Andrew Owen, Rebecca Álvarez, Kirk Lawrence, and Christopher Chase-Dunn. 2015. “Urban Scale Shifts since the Bronze Age: Upsweeps, Collapses, and Semiperipheral Development.” Social Science History 39 (2): 175–200.
+- Inoue, Hiroko, Alexis Álvarez, Eugene N. Anderson, Andrew Owen, Rebecca Álvarez, Kirk Lawrence, and Christopher Chase-Dunn. 2015. “Urban Scale Shifts since the Bronze Age: Upsweeps, Collapses, and Semiperipheral Development.” Social Science History 39 (2): 175–200.
 
-Lazarus, Jeffrey V., Katarzyna Wyka, Trenton M. White, Camila A. Picchio, Lawrence O. Gostin, Heidi J. Larson, Kenneth Rabin, Scott C. Ratzan, Adeeba Kamarulzaman, and Ayman El-Mohandes. 2023. “A Survey of COVID-19 Vaccine Acceptance across 23 Countries in 2022.” Nature Medicine 29 (2): 366–75.
+- Lazarus, Jeffrey V., Katarzyna Wyka, Trenton M. White, Camila A. Picchio, Lawrence O. Gostin, Heidi J. Larson, Kenneth Rabin, Scott C. Ratzan, Adeeba Kamarulzaman, and Ayman El-Mohandes. 2023. “A Survey of COVID-19 Vaccine Acceptance across 23 Countries in 2022.” Nature Medicine 29 (2): 366–75.
 
-Mina, Michael J., Tomasz Kula, Yumei Leng, Mamie Li, Rory D. de Vries, Mikael Knip, Heli Siljander, et al. 2019. “Measles Virus Infection Diminishes Preexisting Antibodies That Offer Protection from Other Pathogens.” Science (New York, N.Y.) 366 (6465): 599–606.
+- Mina, Michael J., Tomasz Kula, Yumei Leng, Mamie Li, Rory D. de Vries, Mikael Knip, Heli Siljander, et al. 2019. “Measles Virus Infection Diminishes Preexisting Antibodies That Offer Protection from Other Pathogens.” Science (New York, N.Y.) 366 (6465): 599–606.
 
-Morens, David M. 2003. “Characterizing a ‘New’ Disease: Epizootic and Epidemic Anthrax, 1769-1780.” American Journal of Public Health 93 (6): 886–93.
+- Morens, David M. 2003. “Characterizing a ‘New’ Disease: Epizootic and Epidemic Anthrax, 1769-1780.” American Journal of Public Health 93 (6): 886–93.
 
-Morens, David M., Edward C. Holmes, A. Sally Davis, and Jeffery K. Taubenberger. 2011. “Global Rinderpest Eradication: Lessons Learned and Why Humans Should Celebrate Too.” The Journal of Infectious Diseases 204 (4): 502–5.
+- Morens, David M., Edward C. Holmes, A. Sally Davis, and Jeffery K. Taubenberger. 2011. “Global Rinderpest Eradication: Lessons Learned and Why Humans Should Celebrate Too.” The Journal of Infectious Diseases 204 (4): 502–5.
 
-Wilkinson, L. 1984. “Rinderpest and Mainstream Infectious Disease Concepts in the Eighteenth Century.” Medical History 28 (2): 129–50.
+- Wilkinson, L. 1984. “Rinderpest and Mainstream Infectious Disease Concepts in the Eighteenth Century.” Medical History 28 (2): 129–50.
 
-Zemella, Anne, Kerstin Beer, Franziska Ramm, Dana Wenzel, Ariane Düx, Kevin Merkel, Sebastien Calvignac-Spencer, et al. 2024. “Vaccine-Induced Neutralizing Antibodies Bind to the H Protein of a Historical Measles Virus.” International Journal of Medical Microbiology: IJMM 314 (151607): 151607.
+- Zemella, Anne, Kerstin Beer, Franziska Ramm, Dana Wenzel, Ariane Düx, Kevin Merkel, Sebastien Calvignac-Spencer, et al. 2024. “Vaccine-Induced Neutralizing Antibodies Bind to the H Protein of a Historical Measles Virus.” International Journal of Medical Microbiology: IJMM 314 (151607): 151607.
