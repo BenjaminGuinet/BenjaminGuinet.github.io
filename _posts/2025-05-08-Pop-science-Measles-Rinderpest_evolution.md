@@ -46,7 +46,7 @@ But elsewhere, rinderpest continued to wreak havoc. In Africa, it triggered a ca
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/FIG2_MEASLE_RINDERPEST_STAMP" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/FIG2_MEASLE_RINDERPEST_STAMP.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
@@ -73,7 +73,7 @@ But why did this species jump occur at precisely this time, and why did it end u
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/FIG4_MEASLES_Morbivirus_phylogeny.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid path="assets/img/FIG4_MEASLES_Morbivirus_phylogeny.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
