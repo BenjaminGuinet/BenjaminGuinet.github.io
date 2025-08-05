@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-tales-lull-our-childhood-and-trace-our-history",
+            },{id: "post-",
+        
+          title: "",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/2025-05-08-Pop-science-Measles-Rinderpest_evolution/";
+          
+        },
+      },{id: "post-tales-lull-our-childhood-and-trace-our-history",
         
           title: "Tales lull our childhood and trace our history",
         
@@ -107,17 +118,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/Pop-science-Sexual_selection/";
-          
-        },
-      },{id: "post-sexual-selection-from-sexy-dancing-to-cheating-anything-goes",
-        
-          title: "Sexual selection, from sexy dancing to cheating, anything goes!",
-        
-        description: "Popular scientific paper",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/Pop-science-Measles-Rinderpest_evolution/";
           
         },
       },{id: "books-the-godfather",
