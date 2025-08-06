@@ -72,7 +72,7 @@ As we saw above, measles is actually the result of a species jump. In 2020, rese
 
 But why did this species jump occur at precisely this time, and why did it end up establishing itself permanently in humans?
 
-### **When human density becomes a condition for a virus to survive** ###
+### **Human density becomes a condition for a virus to jump** ###
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
