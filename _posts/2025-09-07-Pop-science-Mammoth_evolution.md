@@ -108,7 +108,7 @@ DNA is a fragile molecule. After death, it breaks down first into fragments, the
     <figure class="text-center">
       {% include figure.liquid path="assets/img/FIG6_Mammoth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
       <figcaption class="mt-2">
-        Figure 6. Illustration DNA damage patterns
+        Figure 6. Illustration of DNA damage patterns
       </figcaption>
     </figure>
   </div>
