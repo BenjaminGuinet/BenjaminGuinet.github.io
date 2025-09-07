@@ -137,7 +137,7 @@ For most of their history, mammoths were continental wanderers. But their final 
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
     <figure class="text-center">
-      {% include figure.liquid path="assets/img/FIG78_Mammoth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      {% include figure.liquid path="assets/img/FIG8_Mammoth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
       <figcaption class="mt-2">
         Figure 8. The geographical distribution of wolly mammoth until their extinction (Image modified from https://doi.org/10.1016/j.quaint.2015.03.023)
       </figcaption>
@@ -160,7 +160,7 @@ For decades, scientists have been sequencing mammoth DNA to reconstruct the live
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
     <figure class="text-center">
-      {% include figure.liquid path="assets/img/FIG79_Mammoth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      {% include figure.liquid path="assets/img/FIG9_Mammoth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
       <figcaption class="mt-2">
         Figure 9. Illustration of microbes surounding a wooly and steppe mammoth
       </figcaption>
@@ -173,7 +173,7 @@ Recovering those ancient traces is anything but simple. Extracting mammoth DNA f
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
     <figure class="text-center">
-      {% include figure.liquid path="assets/img/FIG710_Mammoth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      {% include figure.liquid path="assets/img/FIG10_Mammoth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
       <figcaption class="mt-2">
         Figure 10. An illustration of a skull emerging from melting permafrost
       </figcaption>
@@ -189,7 +189,7 @@ Among the most remarkable discoveries was a partial genome of Erysipelothrix fro
 <div class="row mt-3">
   <div class="col-sm mt-3 mt-md-0">
     <figure class="text-center">
-      {% include figure.liquid path="assets/img/FIG711_Mammoth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+      {% include figure.liquid path="assets/img/FIG11_Mammoth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
       <figcaption class="mt-2">
         Figure 11. This image illustrates the phylogenetic link between a Pasteurella bacterium isolated from African elephants and recovered from woolly mammoths 
       </figcaption>
