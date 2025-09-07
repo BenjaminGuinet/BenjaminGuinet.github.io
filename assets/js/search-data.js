@@ -76,17 +76,6 @@ ninja.data = [{
             window.location.href = "/blog/2025/Pop-science-Measles-Rinderpest_evolution/";
           
         },
-      },{id: "post-the-last-breath-of-the-mammoths",
-        
-          title: "The Last Breath of the Mammoths",
-        
-        description: "Popular scientific paper",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/Pop-science-Mammoth_evolution/";
-          
-        },
       },{id: "post-tales-lull-our-childhood-and-trace-our-history",
         
           title: "Tales lull our childhood and trace our history",
