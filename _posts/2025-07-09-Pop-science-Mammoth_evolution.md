@@ -210,7 +210,6 @@ The dialogue between genes, climate, bodies, and microbes is not just about the 
 
 ## **References**
 
-
 Arppe, L., Ukkonen, P., Lister, A. M., Mannermaa, K., & Zazula, G. D. (2019). Wrangel Island mammoths and the chronology of their extinction. Quaternary Science Reviews, 209, 57–64. https://doi.org/10.1016/j.quascirev.2019.02.011
 Briggs, A. W., Stenzel, U., Johnson, P. L. F., Green, R. E., Kelso, J., Prüfer, K., Meyer, M., Krause, J., Ronan, M. T., Lachmann, M., & Pääbo, S. (2010). Patterns of damage in genomic DNA sequences from a Neandertal. Proceedings of the National Academy of Sciences, 107(36), 16131–16136. https://doi.org/10.1073/pnas.1004946107
 
