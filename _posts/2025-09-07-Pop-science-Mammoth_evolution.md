@@ -175,7 +175,7 @@ Recovering those ancient traces is anything but simple. Extracting mammoth DNA f
     <figure class="text-center">
       {% include figure.liquid path="assets/img/FIG10_Mammoth.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
       <figcaption class="mt-2">
-        Figure 10. An illustration of a skull emerging from melting permafrost
+        Figure 10. An illustration of a skull emerging from melting permafrost. Upper right figure was adapted from Sebastián Duchêne et al. 2020.
       </figcaption>
     </figure>
   </div>
