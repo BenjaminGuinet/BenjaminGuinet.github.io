@@ -248,10 +248,13 @@
     "url": "https://example.com/news-coverage"
   },
   {
-    "title": "Test",
-    "date": "2025",
+    "title": "Wasps stole genes from viruses",
+    "date": "2025-01-22",
     "awarder": "The Economist",
-    "url": "https://www.economist.com/science-and-technology/2025/01/22/wasps-stole-genes-from-viruses"
+    "url": "https://www.economist.com/science-and-technology/2025/01/22/wasps-stole-genes-from-viruses",
+    "pdf": "WASP_The_Economist.pdf",
+    "logo": "assets/img/logos/economist.svg",
+    "summary": "Coverage of our study on ancient host-associated microbes."
   },
   {
     "title": "Test",

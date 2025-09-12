@@ -1,7 +1,14 @@
 {%- comment -%}
-  Media/Medias section renderer.
-  Expects `data` to be the pair [ "media", <array> ] from cv.liquid.
-  Item fields: title, date (YYYY or YYYY-MM or YYYY-MM-DD), awarder, url, summary (optional).
+  Media/Medias section renderer (publications-style buttons).
+  Expects `data` to be the pair ["media", <array>] from cv.liquid.
+
+  Per-item fields supported in assets/json/resume.json:
+    - title   (string, required)
+    - date    (YYYY or YYYY-MM or YYYY-MM-DD)
+    - awarder (string: outlet/source)
+    - url     (string: link to the article/audio/video)
+    - pdf     (string: filename in /assets/pdf/ or a full URL)
+    - summary (string, optional)
 {%- endcomment -%}
 
 {%- assign items = data[1] | default: empty -%}
@@ -9,7 +16,6 @@
 {%- if items == empty or items.size == 0 -%}
   <p class="mb-0">No media items yet.</p>
 {%- else -%}
-  {%- comment -%} Sort newest first {%- endcomment -%}
   {%- assign items = items | sort: "date" | reverse -%}
 
   <ul class="card-text font-weight-light list-group list-group-flush mb-0">
@@ -21,6 +27,7 @@
 
       <li class="list-group-item">
         <div class="row">
+          <!-- Date badge -->
           <div class="col-12 col-md-2 text-center date-column mb-2 mb-md-0">
             {%- if date_str != "" -%}
               <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
@@ -29,28 +36,64 @@
             {%- endif -%}
           </div>
 
+          <!-- Main content -->
           <div class="col-12 col-md-10 mt-1 mt-md-0">
-            <h6 class="title font-weight-bold ml-md-4 mb-1">
-              {%- if content.url and content.url != "" -%}
-                <a href="{{ content.url }}" target="_blank" rel="noopener noreferrer">
+            <div class="ml-md-4">
+              <!-- Title -->
+              <div class="title font-weight-bold mb-1">
+                {%- if content.url and content.url != "" -%}
+                  <a href="{{ content.url }}" target="_blank" rel="noopener noreferrer">
+                    {{ content.title | default: "Media coverage" }}
+                  </a>
+                {%- else -%}
                   {{ content.title | default: "Media coverage" }}
-                </a>
-              {%- else -%}
-                {{ content.title | default: "Media coverage" }}
+                {%- endif -%}
+              </div>
+
+              <!-- Outlet / meta -->
+              {%- assign has_meta = false -%}
+              {%- if content.awarder and content.awarder != "" -%}
+                {%- assign has_meta = true -%}
               {%- endif -%}
-            </h6>
+              {%- if has_meta or date_str != "" -%}
+                <div class="text-muted small mb-2">
+                  {%- if content.awarder and content.awarder != "" -%}
+                    {{ content.awarder }}
+                  {%- endif -%}
+                  {%- if date_str != "" -%}
+                    {%- if content.awarder and content.awarder != "" -%} • {%- endif -%}
+                    {{ date_str }}
+                  {%- endif -%}
+                </div>
+              {%- endif -%}
 
-            {%- if content.awarder and content.awarder != "" -%}
-              <h6 class="ml-md-4 mb-1" style="font-size: 0.95rem">
-                {{ content.awarder }}
-              </h6>
-            {%- endif -%}
+              <!-- Links/Buttons (match publications style) -->
+              <div class="links mb-1">
+                {%- if content.url and content.url != "" -%}
+                  <a href="{{ content.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">
+                    Link
+                  </a>
+                {%- endif -%}
+                {%- if content.pdf and content.pdf != "" -%}
+                  {%- if content.pdf contains '://' -%}
+                    <a href="{{ content.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">
+                      <i class="fa-solid fa-file-pdf mr-1"></i>PDF
+                    </a>
+                  {%- else -%}
+                    <a href="{{ content.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">
+                      <i class="fa-solid fa-file-pdf mr-1"></i>PDF
+                    </a>
+                  {%- endif -%}
+                {%- endif -%}
+              </div>
 
-            {%- if content.summary and content.summary != "" -%}
-              <h6 class="ml-md-4 mb-0" style="font-size: 0.95rem; font-style: italic">
-                {{ content.summary }}
-              </h6>
-            {%- endif -%}
+              <!-- Optional summary -->
+              {%- if content.summary and content.summary != "" -%}
+                <div style="font-size: 0.95rem; font-style: italic">
+                  {{ content.summary }}
+                </div>
+              {%- endif -%}
+            </div>
           </div>
         </div>
       </li>
