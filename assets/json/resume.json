@@ -228,31 +228,49 @@
       "courses": "Endogenization of dsDNA viruses as a widespread source of adaptation in endoparasitoid species"
     }
   ],
-  "media": [
-    {
-      "title": "Test",
-      "date": "2025",
-      "awarder": "The Economist",
-      "url": "https://www.economist.com/science-and-technology/2025/01/22/wasps-stole-genes-from-viruses"
-    },
-    {
-      "title": "Test",
-      "date": "2022",
-      "awarder": "Pop Sciences",
-      "url": "https://popsciences.universite-lyon.fr/ressources/retracer-lhistoire-des-contes-de-fees-a-laide-de-la-biologie-evolutive/"
-    },
-    {
-      "title": "PhD work presentation",
-      "date": "2020",
-      "awarder": "BarCamp Lyon1",
-      "url": "https://www.youtube.com/watch?v=TQgC46l9z3w"
-    },
-    {
-      "title": "Test",
-      "date": "2020",
-      "awarder": "CNRS",
-      "url": "https://www.cnrs.fr/fr/presse/un-virus-domestique-donne-un-avantage-evolutif-aux-guepes-parasitoides"
-    }
+"media": [
+  {
+    "title": "Ancient host-associated microbes obtained from mammoth remains",
+    "date": "2025-07-15",
+    "awarder": "Outlet / Blog name",
+    "url": "https://example.com/article-about-your-mammoth-paper"
+  },
+  {
+    "title": "Ancient host-associated microbes obtained from mammoth remains",
+    "date": "2025-06-30",
+    "awarder": "Podcast / Radio show name",
+    "url": "https://example.com/podcast-episode"
+  },
+  {
+    "title": "Ancient host-associated microbes obtained from mammoth remains",
+    "date": "2025-06-25",
+    "awarder": "News site name",
+    "url": "https://example.com/news-coverage"
+  },
+  {
+    "title": "Test",
+    "date": "2025",
+    "awarder": "The Economist",
+    "url": "https://www.economist.com/science-and-technology/2025/01/22/wasps-stole-genes-from-viruses"
+  },
+  {
+    "title": "Test",
+    "date": "2022",
+    "awarder": "Pop Sciences",
+    "url": "https://popsciences.universite-lyon.fr/ressources/retracer-lhistoire-des-contes-de-fees-a-laide-de-la-biologie-evolutive/"
+  },
+  {
+    "title": "PhD work presentation",
+    "date": "2020",
+    "awarder": "BarCamp Lyon1",
+    "url": "https://www.youtube.com/watch?v=TQgC46l9z3w"
+  },
+  {
+    "title": "Test",
+    "date": "2020",
+    "awarder": "CNRS",
+    "url": "https://www.cnrs.fr/fr/presse/un-virus-domestique-donne-un-avantage-evolutif-aux-guepes-parasitoides"
+  }
   ],
   "reviewing": [
     {
@@ -308,25 +326,5 @@
         "Hiking"
       ]
     }
-  ],
-  "media": [
-  {
-    "title": "Ancient host-associated microbes obtained from mammoth remains",
-    "date": "2025-07-15",
-    "awarder": "Outlet / Blog name",
-    "url": "https://example.com/article-about-your-mammoth-paper"
-  },
-  {
-    "title": "Ancient host-associated microbes obtained from mammoth remains",
-    "date": "2025-06-30",
-    "awarder": "Podcast / Radio show name",
-    "url": "https://example.com/podcast-episode"
-  },
-  {
-    "title": "Ancient host-associated microbes obtained from mammoth remains",
-    "date": "2025-06-25",
-    "awarder": "News site name",
-    "url": "https://example.com/news-coverage"
-  }
-]
+  ]
 }
