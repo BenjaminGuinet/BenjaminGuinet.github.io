@@ -230,31 +230,54 @@
   ],
 "media": [
   {
-    "title": "Ancient host-associated microbes obtained from mammoth remains",
-    "date": "2025-07-15",
-    "awarder": "Outlet / Blog name",
-    "url": "https://example.com/article-about-your-mammoth-paper"
+    "title": "P1 Morgon - alla avsnitt",
+    "date": "2025-09-12",
+    "awarder": "Sveriges Radio",
+    "url": "https://www.sverigesradio.se/avsnitt?programid=1650"
   },
   {
-    "title": "Ancient host-associated microbes obtained from mammoth remains",
-    "date": "2025-06-30",
-    "awarder": "Podcast / Radio show name",
-    "url": "https://example.com/podcast-episode"
+    "title": "Des bactéries vieilles d’un million d’années retrouvées dans des restes de mammouths",
+    "date": "2025-09-09",
+    "awarder": "Sciences et avenir",
+    "url": "https://www.sciencesetavenir.fr/archeo-paleo/paleontologie/des-bacteries-vieilles-d-un-million-d-annees-retrouvees-dans-des-restes-de-mammouths_188081"
   },
   {
-    "title": "Ancient host-associated microbes obtained from mammoth remains",
-    "date": "2025-06-25",
-    "awarder": "News site name",
+    "title": "Des microbes de mammouths révélés par la paléogénomique",
+    "date": "2025-09-08",
+    "awarder": "Le Monde",
+    "url": "https://www.lemonde.fr/sciences/article/2025/09/08/des-microbes-de-mammouths-reveles-par-la-paleogenomique_6639759_1650684.html",
+    "pdf": "LE_MONDE.pdf"
+  },
+  {
+    "title": "A mammoth toothache: bacterial community discovered in mouth of ancient mammal",
+    "date": "2025-09-06",
+    "awarder": "Scientific American",
+    "url": "https://www.scientificamerican.com/article/scientists-sequence-bacterial-dna-from-germs-in-mammoth-teeth/"
+  },
+  {
+    "title": "Oldest known bacterial DNA found in a mammoth that lived more than a million years ago",
+    "date": "2025-09-02",
+    "awarder": "EL PAÍS",
+    "url": "https://english.elpais.com/science-tech/2025-09-02/oldest-known-bacterial-dna-found-in-a-mammoth-that-lived-more-than-a-million-years-ago.html?outputType=amp"
+  },
+  {
+    "title": "Ancient Bacterial DNA Has Been Recovered From A 1.1-Million-Year-Old Steppe Mammoth",
+    "date": "2025-09-02",
+    "awarder": "IFLScience",
     "url": "https://example.com/news-coverage"
+  },
+  {
+    "title": "A mammoth toothache: bacterial community discovered in mouth of ancient mammal",
+    "date": "2025-09-02",
+    "awarder": "Nature",
+    "url": "https://www.nature.com/articles/d41586-025-02799-x"
   },
   {
     "title": "Wasps stole genes from viruses",
     "date": "2025-01-22",
     "awarder": "The Economist",
     "url": "https://www.economist.com/science-and-technology/2025/01/22/wasps-stole-genes-from-viruses",
-    "pdf": "WASP_The_Economist.pdf",
-    "logo": "assets/img/logos/economist.svg",
-    "summary": "Coverage of our study on ancient host-associated microbes."
+    "pdf": "WASP_The_Economist.pdf"
   },
   {
     "title": "Test",
