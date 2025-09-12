@@ -1,14 +1,7 @@
 {%- comment -%}
-  Media/Medias section renderer (publications-style buttons).
-  Expects `data` to be the pair ["media", <array>] from cv.liquid.
-
-  Per-item fields supported in assets/json/resume.json:
-    - title   (string, required)
-    - date    (YYYY or YYYY-MM or YYYY-MM-DD)
-    - awarder (string: outlet/source)
-    - url     (string: link to the article/audio/video)
-    - pdf     (string: filename in /assets/pdf/ or a full URL)
-    - summary (string, optional)
+  Media/Medias section (title is the link; PDF icon; outlet name only, no date; not muted).
+  Per-item fields in assets/json/resume.json:
+    - title, date, awarder, url, pdf, summary
 {%- endcomment -%}
 
 {%- assign items = data[1] | default: empty -%}
@@ -25,9 +18,19 @@
         {%- assign date_str = content.date | split: "-" | join: "." -%}
       {%- endif -%}
 
+      {%- comment -%} Build PDF href (relative to /assets/pdf/ by default) {%- endcomment -%}
+      {%- assign pdf_href = "" -%}
+      {%- if content.pdf and content.pdf != "" -%}
+        {%- if content.pdf contains "://" -%}
+          {%- assign pdf_href = content.pdf -%}
+        {%- else -%}
+          {%- assign pdf_href = content.pdf | prepend: '/assets/pdf/' | relative_url -%}
+        {%- endif -%}
+      {%- endif -%}
+
       <li class="list-group-item">
         <div class="row">
-          <!-- Date badge -->
+          <!-- Date badge on the left -->
           <div class="col-12 col-md-2 text-center date-column mb-2 mb-md-0">
             {%- if date_str != "" -%}
               <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
@@ -39,7 +42,7 @@
           <!-- Main content -->
           <div class="col-12 col-md-10 mt-1 mt-md-0">
             <div class="ml-md-4">
-              <!-- Title -->
+              <!-- Title (hyperlink) + PDF icon -->
               <div class="title font-weight-bold mb-1">
                 {%- if content.url and content.url != "" -%}
                   <a href="{{ content.url }}" target="_blank" rel="noopener noreferrer">
@@ -48,44 +51,25 @@
                 {%- else -%}
                   {{ content.title | default: "Media coverage" }}
                 {%- endif -%}
-              </div>
 
-              <!-- Outlet / meta -->
-              {%- assign has_meta = false -%}
-              {%- if content.awarder and content.awarder != "" -%}
-                {%- assign has_meta = true -%}
-              {%- endif -%}
-              {%- if has_meta or date_str != "" -%}
-                <div class="text-muted small mb-2">
-                  {%- if content.awarder and content.awarder != "" -%}
-                    {{ content.awarder }}
-                  {%- endif -%}
-                  {%- if date_str != "" -%}
-                    {%- if content.awarder and content.awarder != "" -%} • {%- endif -%}
-                    {{ date_str }}
-                  {%- endif -%}
-                </div>
-              {%- endif -%}
-
-              <!-- Links/Buttons (match publications style) -->
-              <div class="links mb-1">
-                {%- if content.url and content.url != "" -%}
-                  <a href="{{ content.url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">
-                    Link
+                {%- if pdf_href != "" -%}
+                  <a href="{{ pdf_href }}"
+                     class="ml-2"
+                     target="_blank"
+                     rel="noopener noreferrer"
+                     aria-label="Open PDF"
+                     title="Open PDF">
+                    <i class="fa-solid fa-file-pdf text-danger" aria-hidden="true"></i>
                   </a>
                 {%- endif -%}
-                {%- if content.pdf and content.pdf != "" -%}
-                  {%- if content.pdf contains '://' -%}
-                    <a href="{{ content.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">
-                      <i class="fa-solid fa-file-pdf mr-1"></i>PDF
-                    </a>
-                  {%- else -%}
-                    <a href="{{ content.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">
-                      <i class="fa-solid fa-file-pdf mr-1"></i>PDF
-                    </a>
-                  {%- endif -%}
-                {%- endif -%}
               </div>
+
+              <!-- Outlet only (not muted; no date here) -->
+              {%- if content.awarder and content.awarder != "" -%}
+                <div class="mb-2">
+                  {{ content.awarder }}
+                </div>
+              {%- endif -%}
 
               <!-- Optional summary -->
               {%- if content.summary and content.summary != "" -%}
@@ -93,10 +77,3 @@
                   {{ content.summary }}
                 </div>
               {%- endif -%}
-            </div>
-          </div>
-        </div>
-      </li>
-    {%- endfor -%}
-  </ul>
-{%- endif -%}
