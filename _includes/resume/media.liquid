@@ -38,4 +38,38 @@
             {%- endif -%}
           </div>
 
-          <!-- Main content -
+          <!-- Main content -->
+          <div class="col-12 col-md-10 mt-1 mt-md-0">
+            <div class="ml-md-4">
+              <!-- Title (hyperlink) + PDF icon -->
+              <div class="title font-weight-bold mb-1">
+                {%- if content.url and content.url != '' -%}
+                  <a href="{{ content.url }}" target="_blank" rel="noopener noreferrer">
+                    {{ content.title | default: 'Media coverage' }}
+                  </a>
+                {%- else -%}
+                  {{ content.title | default: 'Media coverage' }}
+                {%- endif -%}
+
+                {%- if pdf_href != '' -%}
+                  <a href="{{ pdf_href }}" class="ml-2" target="_blank" rel="noopener noreferrer"
+                     aria-label="Open PDF" title="Open PDF">
+                    <i class="fa-solid fa-file-pdf text-danger" aria-hidden="true"></i>
+                  </a>
+                {%- endif -%}
+              </div>
+
+              {%- if content.awarder and content.awarder != '' -%}
+                <div class="mb-2">{{ content.awarder }}</div>
+              {%- endif -%}
+
+              {%- if content.summary and content.summary != '' -%}
+                <p class="mb-0" style="font-size:0.95rem; font-style:italic">{{ content.summary }}</p>
+              {%- endif -%}
+            </div>
+          </div>
+        </div>
+      </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
