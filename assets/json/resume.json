@@ -308,5 +308,25 @@
         "Hiking"
       ]
     }
-  ]
+  ],
+  "media": [
+  {
+    "title": "Ancient host-associated microbes obtained from mammoth remains",
+    "date": "2025-07-15",
+    "awarder": "Outlet / Blog name",
+    "url": "https://example.com/article-about-your-mammoth-paper"
+  },
+  {
+    "title": "Ancient host-associated microbes obtained from mammoth remains",
+    "date": "2025-06-30",
+    "awarder": "Podcast / Radio show name",
+    "url": "https://example.com/podcast-episode"
+  },
+  {
+    "title": "Ancient host-associated microbes obtained from mammoth remains",
+    "date": "2025-06-25",
+    "awarder": "News site name",
+    "url": "https://example.com/news-coverage"
+  }
+]
 }

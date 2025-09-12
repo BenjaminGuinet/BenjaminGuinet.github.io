@@ -1,19 +1,59 @@
-<ul class="card-text font-weight-light list-group list-group-flush">
-  {% for content in data[1] %}
-    <li class="list-group-item">
-      <div class="row">
-        <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
-          {% if content.date %} {% assign date = content.date | split: '-' | join: '.' %} {% else %} {% assign date = '' %} {% endif %}
-          <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px"> {{ date }} </span>
+{%- comment -%}
+  Media/Medias section renderer.
+  Expects `data` to be the pair [ "media", <array> ] from cv.liquid.
+  Item fields: title, date (YYYY or YYYY-MM or YYYY-MM-DD), awarder, url, summary (optional).
+{%- endcomment -%}
+
+{%- assign items = data[1] | default: empty -%}
+
+{%- if items == empty or items.size == 0 -%}
+  <p class="mb-0">No media items yet.</p>
+{%- else -%}
+  {%- comment -%} Sort newest first {%- endcomment -%}
+  {%- assign items = items | sort: "date" | reverse -%}
+
+  <ul class="card-text font-weight-light list-group list-group-flush mb-0">
+    {%- for content in items -%}
+      {%- assign date_str = "" -%}
+      {%- if content.date and content.date != "" -%}
+        {%- assign date_str = content.date | split: "-" | join: "." -%}
+      {%- endif -%}
+
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-12 col-md-2 text-center date-column mb-2 mb-md-0">
+            {%- if date_str != "" -%}
+              <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">
+                {{ date_str }}
+              </span>
+            {%- endif -%}
+          </div>
+
+          <div class="col-12 col-md-10 mt-1 mt-md-0">
+            <h6 class="title font-weight-bold ml-md-4 mb-1">
+              {%- if content.url and content.url != "" -%}
+                <a href="{{ content.url }}" target="_blank" rel="noopener noreferrer">
+                  {{ content.title | default: "Media coverage" }}
+                </a>
+              {%- else -%}
+                {{ content.title | default: "Media coverage" }}
+              {%- endif -%}
+            </h6>
+
+            {%- if content.awarder and content.awarder != "" -%}
+              <h6 class="ml-md-4 mb-1" style="font-size: 0.95rem">
+                {{ content.awarder }}
+              </h6>
+            {%- endif -%}
+
+            {%- if content.summary and content.summary != "" -%}
+              <h6 class="ml-md-4 mb-0" style="font-size: 0.95rem; font-style: italic">
+                {{ content.summary }}
+              </h6>
+            {%- endif -%}
+          </div>
         </div>
-        <div class="col-xs-10 cl-sm-10 col-md-10 mt-2 mt-md-0">
-          <h6 class="title font-weight-bold ml-1 ml-md-4">
-            <a href="{{ content.url }}">{{ content.title }}</a>
-          </h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">{{ content.awarder }}</h6>
-          <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">{{ content.summary }}</h6>
-        </div>
-      </div>
-    </li>
-  {% endfor %}
-</ul>
+      </li>
+    {%- endfor -%}
+  </ul>
+{%- endif -%}
