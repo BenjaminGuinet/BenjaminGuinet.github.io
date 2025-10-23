@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Invited researcher at Helmholtz Institute for One Health
+subtitle: Invited researcher at <a href="https://www.helmholtz-hioh.de/de/" target="_blank">Helmholtz Institute for One Health</a>
 
 profile:
   align: right
