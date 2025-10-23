@@ -11,8 +11,8 @@ profile:
   more_info: >
     <p>Helmholtz Institute for One Health (HIOH)<p>
     <p>Fleischmannstraße 42<p>
-    <p>17489 Greifswald <p>
-    <p>Germany<p>
+    <p>17489 Greifswald<p>
+    <p>GERMANY<p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
