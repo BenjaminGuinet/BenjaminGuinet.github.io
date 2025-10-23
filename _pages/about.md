@@ -9,7 +9,7 @@ profile:
   image: Main_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Helmholtz Institute for One Healths (HIOH)<p>
+    <p>Helmholtz Institute for One Health (HIOH)<p>
     <p>Fleischmannstraße 42<p>
     <p>17489 Greifswald <p>
     <p>Germany<p>
