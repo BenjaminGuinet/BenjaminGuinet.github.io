@@ -30,7 +30,7 @@ latest_posts:
 
 Welcome to my personal webpage :slightly_smiling_face:
 
-I’m an early-career researcher in evolutionary biology, studying the relationships between hosts and their microbiomes, with a particular focus on `viruses`. My work spans different temporal and biological scales—from ancient microbial infections in extinct species to `modern-day host–microbe nteractions`.
+I’m an early-career researcher in evolutionary biology, studying the relationships between hosts and their microbiomes, with a particular focus on `viruses`. My work spans different temporal and biological scales from ancient microbial infections in extinct species to `modern-day host–microbe interactions`.
 
 I received my PhD at the University of Lyon in 2023, where I investigated the long-term coevolution between viruses and parasitoid wasps, focusing on processes of viral endogenization and domestication. After completing my PhD, I joined the `Centre for Palaeogenetics` and the Swedish Museum of Natural History in Stockholm, where I spent two years working on `paleomicrobiology`, studying interactions among bacteria, viruses, and mammoths.
 
