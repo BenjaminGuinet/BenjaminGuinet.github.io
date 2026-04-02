@@ -305,6 +305,12 @@
   }
   ],
   "reviewing": [
+        {
+      "title": "CELL",
+      "date": "2026",
+      "awarder": "",
+      "url": "https://www.cell.com/"
+    },
       {
       "title": "GigaScience",
       "date": "2025",
