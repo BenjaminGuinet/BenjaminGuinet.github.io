@@ -312,6 +312,18 @@
   }
   ],
   "reviewing": [
+     {
+      "title": "Virus Evolution",
+      "date": "2026",
+      "awarder": "",
+      "url": "https://academic.oup.com/ve"
+    },
+    {
+      "title": "NAR Genomics and Bioinformatics",
+      "date": "2026",
+      "awarder": "",
+      "url": "https://academic.oup.com/nargab"
+    },   
     {
       "title": "CELL",
       "date": "2026",
