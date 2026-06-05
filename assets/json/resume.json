@@ -125,6 +125,28 @@
   ],
   "conferences": [
       {
+      "institution": "Talk",
+      "location": "Stockholm, Sweden",
+      "url": "https://icp2026.palaeogenomics.org/wp-content/uploads/sites/97/2026/06/ICP_Program2.pdf",
+      "area": "",
+      "studyType": "International Conference on Palaeogenomics",
+      "date": "2026",
+      "score": null,
+      "honors": [],
+      "courses": "Ancient Host-Associated Microbes obtained from Mammoth Remains"
+    },
+      {
+      "institution": "Talk",
+      "location": "Stockholm, Sweden",
+      "url": "https://www.spaam-community.org/events/news/2026/04/01/spaam8/",
+      "area": "",
+      "studyType": "SPAAM8",
+      "date": "2026",
+      "score": null,
+      "honors": [],
+      "courses": "Evolution of morbilliviruses: from emergence to eradication"
+    },
+      {
       "institution": "Poster",
       "location": "Barcelona, Spain",
       "url": "https://eseb.org/wp-content/uploads/2022/09/ESEB2022-Abstract-book.pdf",
