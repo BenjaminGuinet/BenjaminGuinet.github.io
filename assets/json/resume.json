@@ -123,20 +123,21 @@
       "summary": "Each year, the Société Française de Virologie (SFV) and the ANRS Maladies Infectieuses Emergentes (ANRS-MIE) award thesis prizes to young scientists."
     }
   ],
-  
-    "grants": [
-    {
-      "title": "Marie Skłodowska-Curie Actions - Project 101199110 — EvoVax",
-      "date": "2026-2029",
-      "awarder": "EUROPEAN RESEARCH EXECUTIVE AGENCY (REA)",
-      "url": "/assets/pdf/101199110_EvoVax_ESR-2-1-1.pdf"
-    },
-    {
-      "title": "Dark project grant",
-      "date": "2025-2026",
-      "awarder": "Centre for Palaeogenetics"
-    }
-  ],
+  "grants": [
+  {
+    "title": "Marie Skłodowska-Curie Actions - Project 101199110 — EvoVax",
+    "date": "2026-2029",
+    "awarder": "EUROPEAN RESEARCH EXECUTIVE AGENCY (REA)",
+    "budget": "200,400 €",
+    "url": "/assets/pdf/101199110_EvoVax_ESR-2-1-1.pdf"
+  },
+  {
+    "title": "Dark project grant",
+    "date": "2025-2026",
+    "awarder": "Centre for Palaeogenetics",
+    "budget": "170,000 SEK"
+  }
+ ],
   "conferences": [
       {
       "institution": "Talk",

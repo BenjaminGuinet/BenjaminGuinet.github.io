@@ -34,6 +34,12 @@
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem">
             {{ content.awarder }}
           </h6>
+
+          {% if content.budget %}
+            <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic">
+              Funding: {{ content.budget }}
+            </h6>
+          {% endif %}
         </div>
       </div>
     </li>
