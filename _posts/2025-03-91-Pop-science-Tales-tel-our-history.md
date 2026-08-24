@@ -54,6 +54,7 @@ But a story is rarely transmitted without changing. As it passes from one person
     </div>
 </div>
 
+
 ### Have stories evolved over the centuries?
 
 Versions of the same story often reflect the moral values, concerns and social environment of the people who tell them. It is therefore not surprising that stories are repeatedly adapted to suit new audiences [1].
